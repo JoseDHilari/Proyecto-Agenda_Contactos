@@ -1,10 +1,4001 @@
-[
+[ {
+  "nombre": "Cipriani Hotel Tarma",
+  "numero": "956118217"
+},
   {
-    "nombre": "Juan Perez",
-    "numero": "123456789"
+    "nombre": "Merchandising y Uniformes Arkajana",
+    "numero": "987520052"
   },
   {
-    "nombre": "Maria Lopez",
-    "numero": "987654321"
+    "nombre": "Texas City Hostal",
+    "numero": "981317274"
+  },
+  {
+    "nombre": "CUSCO INKA TRAVEL S.A.C.",
+    "numero": "985645000"
+  },
+  {
+    "nombre": "Gabriel Cava Studio",
+    "numero": "945339051"
+  },
+  {
+    "nombre": "Qala Hotel & Resorts",
+    "numero": "977200411"
+  },
+  {
+    "nombre": "HOSTAL ALTO URUBAMBA",
+    "numero": "984044550"
+  },
+  {
+    "nombre": "Gran Hotel Alturas",
+    "numero": "957680039"
+  },
+  {
+    "nombre": "DAJAMA PERÚ",
+    "numero": "963510290"
+  },
+  {
+    "nombre": "VIAJES AMAZONAS S.R.L.",
+    "numero": "993970114"
+  },
+  {
+    "nombre": "G2A ARQUITECTOS",
+    "numero": "969643807"
+  },
+  {
+    "nombre": "Hospedaje Montenegro",
+    "numero": "956612675"
+  },
+  {
+    "nombre": "JC Clean Planet E.I.R.L",
+    "numero": "949793490"
+  },
+  {
+    "nombre": "Taxis Piura Travel",
+    "numero": "968031306"
+  },
+  {
+    "nombre": "LAVANDERIA ADRYEXPRESS",
+    "numero": "995535201"
+  },
+  {
+    "nombre": "Hostal Espinoza",
+    "numero": "988139881"
+  },
+  {
+    "nombre": "HOTEL ORO VERDE",
+    "numero": "962989002"
+  },
+  {
+    "nombre": "APU KUNTUR TRAVEL",
+    "numero": "999084145"
+  },
+  {
+    "nombre": "Conquistienda Peru",
+    "numero": "943303213"
+  },
+  {
+    "nombre": "Isamar Hotel Galápagos",
+    "numero": "995553718"
+  },
+  {
+    "nombre": "COLEGIO NEIL SUMMERHILL",
+    "numero": "999871089"
+  },
+  {
+    "nombre": "Hidrone Chile",
+    "numero": "991271916"
+  },
+  {
+    "nombre": "Instituto Vital",
+    "numero": "960140763"
+  },
+  {
+    "nombre": "Colegio Estrella de Belén",
+    "numero": "997331263"
+  },
+  {
+    "nombre": "COLEGIO SÉNECA",
+    "numero": "996020030"
+  },
+  {
+    "nombre": "Jean Paul Bike School",
+    "numero": "998754528"
+  },
+  {
+    "nombre": "CANCHURICRA ESCULTURAS",
+    "numero": "994784071"
+  },
+  {
+    "nombre": "DETECTIVE ELIZABETH AREQUIPA",
+    "numero": "952709087"
+  },
+  {
+    "nombre": "LANGUAGE ADVISING",
+    "numero": "999198881"
+  },
+  {
+    "nombre": "Copelas Argor",
+    "numero": "997293883"
+  },
+  {
+    "nombre": "Nido Guarderia Manitos Traviesas",
+    "numero": "908833862"
+  },
+  {
+    "nombre": "ESCUELA DE DANZA GUADALUPE CHÁVES",
+    "numero": "999447661"
+  },
+  {
+    "nombre": "Global Maquinaria",
+    "numero": "949964625"
+  },
+  {
+    "nombre": "ACME Solutions",
+    "numero": "901259203"
+  },
+  {
+    "nombre": "Javier Ramírez",
+    "numero": "903035987"
+  },
+  {
+    "nombre": "Luz Elena Decoraciones",
+    "numero": "906679262"
+  },
+  {
+    "nombre": "Proyectos M&C",
+    "numero": "907517884"
+  },
+  {
+    "nombre": "Innovatec Industries",
+    "numero": "908240819"
+  },
+  {
+    "nombre": "Sergio Calderón",
+    "numero": "910849107"
+  },
+  {
+    "nombre": "Restaurante El Buen Sabor",
+    "numero": "914637114"
+  },
+  {
+    "nombre": "Distribuidora MQF",
+    "numero": "914839891"
+  },
+  {
+    "nombre": "Josefa Quispe",
+    "numero": "915788292"
+  },
+  {
+    "nombre": "Redcom Systems",
+    "numero": "916352958"
+  },
+  {
+    "nombre": "TECLOGIX Group",
+    "numero": "917499254"
+  },
+  {
+    "nombre": "Luciana Ruiz",
+    "numero": "917708635"
+  },
+  {
+    "nombre": "Constructora Panamericana",
+    "numero": "920754158"
+  },
+  {
+    "nombre": "Eventos Gala",
+    "numero": "923410660"
+  },
+  {
+    "nombre": "Agroindustrias Los Andes",
+    "numero": "923525223"
+  },
+  {
+    "nombre": "Juan Pablo S.A.C.",
+    "numero": "923844325"
+  },
+  {
+    "nombre": "Empresa de Transportes Lima Express",
+    "numero": "924741441"
+  },
+  {
+    "nombre": "Grupo EGB",
+    "numero": "927132428"
+  },
+  {
+    "nombre": "Karen Martínez",
+    "numero": "929611951"
+  },
+  {
+    "nombre": "El Refugio Hostal",
+    "numero": "930427766"
+  },
+  {
+    "nombre": "Almendra Peña",
+    "numero": "930900080"
+  },
+  {
+    "nombre": "QualityPrint Perú",
+    "numero": "931203996"
+  },
+  {
+    "nombre": "Distribuciones JR",
+    "numero": "931857424"
+  },
+  {
+    "nombre": "Gabriela Salinas",
+    "numero": "932066063"
+  },
+  {
+    "nombre": "Central de Compras ACL",
+    "numero": "932331324"
+  },
+  {
+    "nombre": "Marcos García",
+    "numero": "932729876"
+  },
+  {
+    "nombre": "Corporación Rodríguez Hnos.",
+    "numero": "936324453"
+  },
+  {
+    "nombre": "Servicio de Lavandería Omega",
+    "numero": "936634263"
+  },
+  {
+    "nombre": "Alejandra Soto",
+    "numero": "936797429"
+  },
+  {
+    "nombre": "Tienda y Cafetería Bambu",
+    "numero": "938974560"
+  },
+  {
+    "nombre": "Vicente Rojas",
+    "numero": "942404783"
+  },
+  {
+    "nombre": "Sistemas y Redes LMD",
+    "numero": "943478644"
+  },
+  {
+    "nombre": "Angelica & Asociados",
+    "numero": "943640294"
+  },
+  {
+    "nombre": "Juan Carlos Estudio Fotográfico",
+    "numero": "946332177"
+  },
+  {
+    "nombre": "Rústico Urbano S.A.C.",
+    "numero": "946596560"
+  },
+  {
+    "nombre": "Grupo Inmobiliario Beta",
+    "numero": "950652942"
+  },
+  {
+    "nombre": "Carlos Tapia",
+    "numero": "950953180"
+  },
+  {
+    "nombre": "Taller de Muebles FS",
+    "numero": "951413677"
+  },
+  {
+    "nombre": "Aromas del Valle",
+    "numero": "952660822"
+  },
+  {
+    "nombre": "Lourdes Castillo",
+    "numero": "956207015"
+  },
+  {
+    "nombre": "GT Solutions",
+    "numero": "957348004"
+  },
+  {
+    "nombre": "Victoriano Romero",
+    "numero": "958999764"
+  },
+  {
+    "nombre": "Expertos en Seguridad EPX",
+    "numero": "963914224"
+  },
+  {
+    "nombre": "Marlene Huamán",
+    "numero": "964431472"
+  },
+  {
+    "nombre": "Tania Delgado",
+    "numero": "964954200"
+  },
+  {
+    "nombre": "Servicios Integrales TEF",
+    "numero": "966341403"
+  },
+  {
+    "nombre": "A.C. Distribuciones",
+    "numero": "966520817"
+  },
+  {
+    "nombre": "Naviera Salaverry",
+    "numero": "970945742"
+  },
+  {
+    "nombre": "Técnicos Reunidos del Perú",
+    "numero": "972139716"
+  },
+  {
+    "nombre": "Telecomunicaciones y Redes PSM",
+    "numero": "975823971"
+  },
+  {
+    "nombre": "Sonia Paredes",
+    "numero": "981504309"
+  },
+  {
+    "nombre": "Distribuidora El Sol",
+    "numero": "982364614"
+  },
+  {
+    "nombre": "Ecomundo SRL",
+    "numero": "984562704"
+  },
+  {
+    "nombre": "Carla Rivera",
+    "numero": "985251054"
+  },
+  {
+    "nombre": "Yaravi Tech Group",
+    "numero": "988588786"
+  },
+  {
+    "nombre": "Innovarte Diseño",
+    "numero": "989872459"
+  },
+  {
+    "nombre": "Importaciones Del Norte",
+    "numero": "990359079"
+  },
+  {
+    "nombre": "Jazmín Ramírez",
+    "numero": "991169576"
+  },
+  {
+    "nombre": "Ardente Publicidad",
+    "numero": "992746895"
+  },
+  {
+    "nombre": "Rafael Granda",
+    "numero": "992861503"
+  },
+  {
+    "nombre": "Estudio Jurídico TOV",
+    "numero": "993944330"
+  },
+  {
+    "nombre": "Laboratorios ULM",
+    "numero": "995294037"
+  },
+  {
+    "nombre": "Ferretería La Unión",
+    "numero": "998051935"
+  },
+  {
+    "nombre": "Servicios Automotrices YG",
+    "numero": "998397812"
+  },
+  {
+    "nombre": "Muebles y Acabados R&G",
+    "numero": "998420240"
+  },
+  {
+    "nombre": "DISTRIBUIDORA MEGA",
+    "numero": "998566137"
+  },
+  {
+    "nombre": "Zafiro Transportes",
+    "numero": "999509551"
+  },
+  {
+    "nombre": "Merchandising y Uniformes Arkajana",
+    "numero": "987520052"
+  },
+  {
+    "nombre": "POLLOS Y PARRILLAS D'ROMAN",
+    "numero": "943623306"
+  },
+  {
+    "nombre": "MAGICA GOURMET",
+    "numero": "942759094"
+  },
+  {
+    "nombre": "Cevichería y Restaurante Los Delfines",
+    "numero": "931676768"
+  },
+  {
+    "nombre": "LICOM SAC Licuadoras industriales",
+    "numero": "935970903"
+  },
+  {
+    "nombre": "Andina Telecom",
+    "numero": "900829779"
+  },
+  {
+    "nombre": "Mario Ramírez",
+    "numero": "901592252"
+  },
+  {
+    "nombre": "Grupo Inversiones PV",
+    "numero": "903063995"
+  },
+  {
+    "nombre": "Transportes Z&M",
+    "numero": "908183798"
+  },
+  {
+    "nombre": "Jazmín Ponce",
+    "numero": "908969933"
+  },
+  {
+    "nombre": "Restaurante Las Delicias",
+    "numero": "909529152"
+  },
+  {
+    "nombre": "Technoserv S.A.C.",
+    "numero": "909667125"
+  },
+  {
+    "nombre": "Daniela Luna",
+    "numero": "909986934"
+  },
+  {
+    "nombre": "Consultores Altamira",
+    "numero": "912113732"
+  },
+  {
+    "nombre": "Francisco Arrieta",
+    "numero": "913527101"
+  },
+  {
+    "nombre": "Distribuidora Escala",
+    "numero": "914039567"
+  },
+  {
+    "nombre": "Blanca Torres",
+    "numero": "917790849"
+  },
+  {
+    "nombre": "Soluciones Eléctricas Lima",
+    "numero": "917874788"
+  },
+  {
+    "nombre": "Corporación Digital S.A.",
+    "numero": "919173406"
+  },
+  {
+    "nombre": "Isabel Martínez",
+    "numero": "919788529"
+  },
+  {
+    "nombre": "Estudio Contable H&M",
+    "numero": "920904842"
+  },
+  {
+    "nombre": "Alejandra Mendoza",
+    "numero": "921869173"
+  },
+  {
+    "nombre": "Constructora Millenium",
+    "numero": "921988003"
+  },
+  {
+    "nombre": "Tania Villanueva",
+    "numero": "922155020"
+  },
+  {
+    "nombre": "Soluciones ITW",
+    "numero": "922289037"
+  },
+  {
+    "nombre": "Manuel Guerrero",
+    "numero": "923935886"
+  },
+  {
+    "nombre": "Grupo Empresarial Delta",
+    "numero": "924252871"
+  },
+  {
+    "nombre": "Dulces Tentaciones",
+    "numero": "924528723"
+  },
+  {
+    "nombre": "Andrea Flores",
+    "numero": "924943462"
+  },
+  {
+    "nombre": "A&R Consultores",
+    "numero": "924982157"
+  },
+  {
+    "nombre": "Inversiones Nuevo Horizonte",
+    "numero": "927074418"
+  },
+  {
+    "nombre": "Renato Aguilar",
+    "numero": "927137675"
+  },
+  {
+    "nombre": "Librería El Saber",
+    "numero": "927841973"
+  },
+  {
+    "nombre": "Grupo Inka Food",
+    "numero": "929430285"
+  },
+  {
+    "nombre": "Taller Automotriz Valcarcel",
+    "numero": "929459175"
+  },
+  {
+    "nombre": "Distribuciones Ferro",
+    "numero": "930702096"
+  },
+  {
+    "nombre": "Pamela Diaz",
+    "numero": "931316854"
+  },
+  {
+    "nombre": "Electrónica SOLTEC",
+    "numero": "932231011"
+  },
+  {
+    "nombre": "Sergio Fuentes",
+    "numero": "933114092"
+  },
+  {
+    "nombre": "Panadería La Tradición",
+    "numero": "933508279"
+  },
+  {
+    "nombre": "Optica Vision Total",
+    "numero": "933737843"
+  },
+  {
+    "nombre": "Rodrigo Paz",
+    "numero": "933877177"
+  },
+  {
+    "nombre": "Talleres Industriales FUTURO",
+    "numero": "935046110"
+  },
+  {
+    "nombre": "Paulina Espinoza",
+    "numero": "936559374"
+  },
+  {
+    "nombre": "Súper Express SRL",
+    "numero": "938597656"
+  },
+  {
+    "nombre": "Renzo Herrera",
+    "numero": "938674099"
+  },
+  {
+    "nombre": "Eduardo Grimaldo",
+    "numero": "940879976"
+  },
+  {
+    "nombre": "Industrias ANDEC",
+    "numero": "941659926"
+  },
+  {
+    "nombre": "Raquel Morales",
+    "numero": "942908171"
+  },
+  {
+    "nombre": "Constructora Moncloa",
+    "numero": "943599547"
+  },
+  {
+    "nombre": "Automotriz El Rápido",
+    "numero": "945095631"
+  },
+  {
+    "nombre": "Rodriguez & Asociados",
+    "numero": "947966219"
+  },
+  {
+    "nombre": "Grupo Editorial Alfa",
+    "numero": "948694489"
+  },
+  {
+    "nombre": "Guillermo Cárdenas",
+    "numero": "953502894"
+  },
+  {
+    "nombre": "Cooperativa de Transportes Altiplano",
+    "numero": "955113750"
+  },
+  {
+    "nombre": "Yessenia Chavez",
+    "numero": "955331408"
+  },
+  {
+    "nombre": "Servicios Mineros DXP",
+    "numero": "955687949"
+  },
+  {
+    "nombre": "Alimentos La Hacienda",
+    "numero": "956762864"
+  },
+  {
+    "nombre": "Martin Fuentes",
+    "numero": "957112364"
+  },
+  {
+    "nombre": "PROFER Ingeniería",
+    "numero": "958018308"
+  },
+  {
+    "nombre": "Maria Beltrán",
+    "numero": "958169047"
+  },
+  {
+    "nombre": "Repuestos & Equipos REMO",
+    "numero": "958269965"
+  },
+  {
+    "nombre": "Natalia Sánchez",
+    "numero": "958278116"
+  },
+  {
+    "nombre": "Corporación Químicos Globales",
+    "numero": "958433459"
+  },
+  {
+    "nombre": "Luis Mena",
+    "numero": "959424718"
+  },
+  {
+    "nombre": "Suministros y Equipos Industriales",
+    "numero": "961233295"
+  },
+  {
+    "nombre": "Andrea Bustamante",
+    "numero": "963671360"
+  },
+  {
+    "nombre": "Digital Marketing Group",
+    "numero": "964493587"
+  },
+  {
+    "nombre": "Jessica Fernández",
+    "numero": "964755235"
+  },
+  {
+    "nombre": "Distribuidora AgroMundo",
+    "numero": "965665804"
+  },
+  {
+    "nombre": "Andrés Quiroz",
+    "numero": "966368871"
+  },
+  {
+    "nombre": "Corporación Yara",
+    "numero": "966552266"
+  },
+  {
+    "nombre": "Josefa Carrillo",
+    "numero": "966636697"
+  },
+  {
+    "nombre": "Negocios & Servicios JHK",
+    "numero": "966968669"
+  },
+  {
+    "nombre": "Carolina Silva",
+    "numero": "968548227"
+  },
+  {
+    "nombre": "Sistemas de Seguridad PERCOM",
+    "numero": "968775434"
+  },
+  {
+    "nombre": "Corporación Enertek",
+    "numero": "971753852"
+  },
+  {
+    "nombre": "Paula Valdivia",
+    "numero": "974003845"
+  },
+  {
+    "nombre": "Electrosur Energía",
+    "numero": "975348873"
+  },
+  {
+    "nombre": "Arturo Godoy",
+    "numero": "976337260"
+  },
+  {
+    "nombre": "EuroImport S.A.C.",
+    "numero": "977496861"
+  },
+  {
+    "nombre": "Ana Paredes",
+    "numero": "978078748"
+  },
+  {
+    "nombre": "MAKRO Sistemas",
+    "numero": "978397703"
+  },
+  {
+    "nombre": "Daniel Pacheco",
+    "numero": "978809107"
+  },
+  {
+    "nombre": "Clínica Vida & Salud",
+    "numero": "979045911"
+  },
+  {
+    "nombre": "Blanca González",
+    "numero": "979069475"
+  },
+  {
+    "nombre": "Restaurante Doña Pancha",
+    "numero": "980427887"
+  },
+  {
+    "nombre": "Grupo Inmobiliario Valles",
+    "numero": "981641819"
+  },
+  {
+    "nombre": "Mauro Rivera",
+    "numero": "984648640"
+  },
+  {
+    "nombre": "Panaderia San Juan",
+    "numero": "985396844"
+  },
+  {
+    "nombre": "Norma Aguilar",
+    "numero": "985424199"
+  },
+  {
+    "nombre": "Talleres Automotrices RTD",
+    "numero": "987015524"
+  },
+  {
+    "nombre": "Leonor Flores",
+    "numero": "987499868"
+  },
+  {
+    "nombre": "DISTRILUX S.A.C.",
+    "numero": "990328813"
+  },
+  {
+    "nombre": "Mariana Aguirre",
+    "numero": "992770447"
+  },
+  {
+    "nombre": "Digital Solutions Perú",
+    "numero": "993281617"
+  },
+  {
+    "nombre": "Ricardo Paredes",
+    "numero": "993992097"
+  },
+  {
+    "nombre": "GRUPO TECNOLOGICO ALFA",
+    "numero": "994265135"
+  },
+  {
+    "nombre": "Laura Quispe",
+    "numero": "994547646"
+  },
+  {
+    "nombre": "Constructora Arequipa",
+    "numero": "994811622"
+  },
+  {
+    "nombre": "Consorcio de Proyectos L&P",
+    "numero": "995893142"
+  },
+  {
+    "nombre": "Transportes Morales",
+    "numero": "997375904"
+  },
+  {
+    "nombre": "José Vega",
+    "numero": "998727596"
+  },
+  {
+    "nombre": "Digital Media Group",
+    "numero": "998762733"
+  },
+  {
+    "nombre": "Natalia Guzmán",
+    "numero": "999406581"
+  },
+  {
+    "nombre": "Elena Cruz",
+    "numero": "901564566"
+  },
+  {
+    "nombre": "Distribuciones DELTA",
+    "numero": "902301818"
+  },
+  {
+    "nombre": "Luz Gutiérrez",
+    "numero": "904919756"
+  },
+  {
+    "nombre": "Constructora El Sol",
+    "numero": "905411377"
+  },
+  {
+    "nombre": "Agroindustrial Pérez",
+    "numero": "906725015"
+  },
+  {
+    "nombre": "Rodrigo Camacho",
+    "numero": "907801417"
+  },
+  {
+    "nombre": "Industrial Minka",
+    "numero": "910294632"
+  },
+  {
+    "nombre": "Patricia Herrera",
+    "numero": "910813323"
+  },
+  {
+    "nombre": "Consultora Nexus",
+    "numero": "911659346"
+  },
+  {
+    "nombre": "Felipe Ramírez",
+    "numero": "912187392"
+  },
+  {
+    "nombre": "Estudio Legal Rodríguez",
+    "numero": "912349712"
+  },
+  {
+    "nombre": "María Palacios",
+    "numero": "913296000"
+  },
+  {
+    "nombre": "Industrias Galvez",
+    "numero": "914420807"
+  },
+  {
+    "nombre": "Pedro Sandoval",
+    "numero": "914676075"
+  },
+  {
+    "nombre": "Transportes Vallejo",
+    "numero": "914980415"
+  },
+  {
+    "nombre": "Nancy Fernández",
+    "numero": "915398726"
+  },
+  {
+    "nombre": "Hogar & Decoraciones",
+    "numero": "915837064"
+  },
+  {
+    "nombre": "Estudio Contable Diaz",
+    "numero": "919371735"
+  },
+  {
+    "nombre": "Cecilia Bautista",
+    "numero": "920031663"
+  },
+  {
+    "nombre": "Grupo Empresarial KMC",
+    "numero": "920198632"
+  },
+  {
+    "nombre": "Transportes Continental",
+    "numero": "920853814"
+  },
+  {
+    "nombre": "Sofía Maldonado",
+    "numero": "921299408"
+  },
+  {
+    "nombre": "Taller Mecánico El Turbo",
+    "numero": "923281492"
+  },
+  {
+    "nombre": "Estefanía López",
+    "numero": "925020520"
+  },
+  {
+    "nombre": "Grupo Maxilux",
+    "numero": "925462223"
+  },
+  {
+    "nombre": "Gabriel Torres",
+    "numero": "925959099"
+  },
+  {
+    "nombre": "Comercializadora Inka",
+    "numero": "926329445"
+  },
+  {
+    "nombre": "Daniel Suárez",
+    "numero": "927012121"
+  },
+  {
+    "nombre": "Diana Navarro",
+    "numero": "927577269"
+  },
+  {
+    "nombre": "Estudio Juridico Valencia",
+    "numero": "927768858"
+  },
+  {
+    "nombre": "José Núñez",
+    "numero": "929054077"
+  },
+  {
+    "nombre": "Grupo Inmobiliario Roma",
+    "numero": "931867819"
+  },
+  {
+    "nombre": "Claudia Ramos",
+    "numero": "935351809"
+  },
+  {
+    "nombre": "Héctor Ramírez",
+    "numero": "935454264"
+  },
+  {
+    "nombre": "Distribuciones PLM",
+    "numero": "935534415"
+  },
+  {
+    "nombre": "Julio Vega",
+    "numero": "935655395"
+  },
+  {
+    "nombre": "Soluciones ITMAX",
+    "numero": "936272897"
+  },
+  {
+    "nombre": "Rosario Gómez",
+    "numero": "937147658"
+  },
+  {
+    "nombre": "Consultores ZETA",
+    "numero": "939038693"
+  },
+  {
+    "nombre": "Panadería La Espiga",
+    "numero": "942072858"
+  },
+  {
+    "nombre": "Industria Textil MAQ",
+    "numero": "942332870"
+  },
+  {
+    "nombre": "Estudio Jurídico Ureña",
+    "numero": "945226630"
+  },
+  {
+    "nombre": "Paulina Vargas",
+    "numero": "946629307"
+  },
+  {
+    "nombre": "Electrónica LUX",
+    "numero": "947002353"
+  },
+  {
+    "nombre": "Javier Alarcón",
+    "numero": "947096165"
+  },
+  {
+    "nombre": "Transportes El Sol",
+    "numero": "947521725"
+  },
+  {
+    "nombre": "Consultores Norteamérica",
+    "numero": "948216717"
+  },
+  {
+    "nombre": "Juliana Ávila",
+    "numero": "948310082"
+  },
+  {
+    "nombre": "Servicios Comerciales J&K",
+    "numero": "948926722"
+  },
+  {
+    "nombre": "Fabricaciones SA",
+    "numero": "949135295"
+  },
+  {
+    "nombre": "Beatriz Castillo",
+    "numero": "951000758"
+  },
+  {
+    "nombre": "Luis Estrada",
+    "numero": "951509820"
+  },
+  {
+    "nombre": "Distribuidora Express",
+    "numero": "951580078"
+  },
+  {
+    "nombre": "Karina Méndez",
+    "numero": "952677460"
+  },
+  {
+    "nombre": "Grupo Empresarial ALFA",
+    "numero": "954246700"
+  },
+  {
+    "nombre": "Taller Automotriz Rápido",
+    "numero": "955269682"
+  },
+  {
+    "nombre": "Francisco Castro",
+    "numero": "955890327"
+  },
+  {
+    "nombre": "Servicios & Soluciones Perú",
+    "numero": "956071891"
+  },
+  {
+    "nombre": "Gerardo Muñoz",
+    "numero": "958033667"
+  },
+  {
+    "nombre": "Laura Alvarado",
+    "numero": "959011277"
+  },
+  {
+    "nombre": "Taller de Muebles Milagros",
+    "numero": "963033086"
+  },
+  {
+    "nombre": "Eduardo Villanueva",
+    "numero": "963333247"
+  },
+  {
+    "nombre": "Grupo Inversiones ELITE",
+    "numero": "968055909"
+  },
+  {
+    "nombre": "Panadería El Maná",
+    "numero": "969220128"
+  },
+  {
+    "nombre": "Diego Camacho",
+    "numero": "970177999"
+  },
+  {
+    "nombre": "Estudios Contables X&Y",
+    "numero": "970365088"
+  },
+  {
+    "nombre": "Industria Metalúrgica Sol",
+    "numero": "971173131"
+  },
+  {
+    "nombre": "Rodrigo Flores",
+    "numero": "972538876"
+  },
+  {
+    "nombre": "Sergio Montero",
+    "numero": "972662113"
+  },
+  {
+    "nombre": "Electrónica Digital S.A.",
+    "numero": "973383930"
+  },
+  {
+    "nombre": "Inversiones Comerciales MT",
+    "numero": "973854468"
+  },
+  {
+    "nombre": "Jesús Ortiz",
+    "numero": "974386455"
+  },
+  {
+    "nombre": "Maria Rosario",
+    "numero": "974548762"
+  },
+  {
+    "nombre": "Grupo Eléctrico F&M",
+    "numero": "976659607"
+  },
+  {
+    "nombre": "Rodrigo Salazar",
+    "numero": "977710512"
+  },
+  {
+    "nombre": "Consultora Esteban",
+    "numero": "977759569"
+  },
+  {
+    "nombre": "Transportes S.O.S.",
+    "numero": "978885141"
+  },
+  {
+    "nombre": "Carlos Mena",
+    "numero": "979698187"
+  },
+  {
+    "nombre": "Textiles & Fibras Sur",
+    "numero": "980353064"
+  },
+  {
+    "nombre": "Ingeniería Ambiental ZAR",
+    "numero": "981763419"
+  },
+  {
+    "nombre": "Librería T&F",
+    "numero": "982180277"
+  },
+  {
+    "nombre": "Consultores Galán",
+    "numero": "982284057"
+  },
+  {
+    "nombre": "Estudios Jurídicos MXA",
+    "numero": "983019966"
+  },
+  {
+    "nombre": "Andrea Cruz",
+    "numero": "984238159"
+  },
+  {
+    "nombre": "Transportes Mérida",
+    "numero": "985266880"
+  },
+  {
+    "nombre": "Panadería Santa Fe",
+    "numero": "985756883"
+  },
+  {
+    "nombre": "Marcos Aguilar",
+    "numero": "987306889"
+  },
+  {
+    "nombre": "Distribuciones Eficientes",
+    "numero": "987727966"
+  },
+  {
+    "nombre": "Industrias Mecánicas DELTA",
+    "numero": "988803053"
+  },
+  {
+    "nombre": "Repuestos Automotrices Perú",
+    "numero": "989872159"
+  },
+  {
+    "nombre": "Alfonso León",
+    "numero": "990042123"
+  },
+  {
+    "nombre": "Industria Comercial BETA",
+    "numero": "991133570"
+  },
+  {
+    "nombre": "Felipe Torres",
+    "numero": "992977431"
+  },
+  {
+    "nombre": "Distribuciones Agrosur",
+    "numero": "993944821"
+  },
+  {
+    "nombre": "Hernán Zapata",
+    "numero": "994177600"
+  },
+  {
+    "nombre": "Cecilia Esteban",
+    "numero": "994803494"
+  },
+  {
+    "nombre": "Luis Muñoz",
+    "numero": "995025240"
+  },
+  {
+    "nombre": "Transporte de Carga T&M",
+    "numero": "996731924"
+  },
+  {
+    "nombre": "Felipe Sánchez",
+    "numero": "999505670"
+  },
+  {
+    "nombre": "Electrodomésticos ZET",
+    "numero": "999852781"
+  },
+  {
+    "nombre": "Roberto Vargas",
+    "numero": "900029001"
+  },
+  {
+    "nombre": "Servicios Integrales M&M",
+    "numero": "901773307"
+  },
+  {
+    "nombre": "Distribuciones Omega",
+    "numero": "902746177"
+  },
+  {
+    "nombre": "Patricia Salas",
+    "numero": "902961885"
+  },
+  {
+    "nombre": "Eduardo Jiménez",
+    "numero": "903130348"
+  },
+  {
+    "nombre": "Consultores Y&Y",
+    "numero": "905898319"
+  },
+  {
+    "nombre": "Ferretería La Solución",
+    "numero": "908250320"
+  },
+  {
+    "nombre": "Juliana Martínez",
+    "numero": "911316539"
+  },
+  {
+    "nombre": "Inversiones Global",
+    "numero": "912175534"
+  },
+  {
+    "nombre": "Cristina León",
+    "numero": "915905978"
+  },
+  {
+    "nombre": "Distribuciones Prisma",
+    "numero": "915986830"
+  },
+  {
+    "nombre": "Renato Salazar",
+    "numero": "916471347"
+  },
+  {
+    "nombre": "Servicios Agropecuarios",
+    "numero": "919082712"
+  },
+  {
+    "nombre": "Grupo Constructor H&J",
+    "numero": "920878475"
+  },
+  {
+    "nombre": "Sofía Cruz",
+    "numero": "921792178"
+  },
+  {
+    "nombre": "Comercializadora SAM",
+    "numero": "923225012"
+  },
+  {
+    "nombre": "Marco López",
+    "numero": "924758150"
+  },
+  {
+    "nombre": "Helena Torres",
+    "numero": "925121974"
+  },
+  {
+    "nombre": "Electrodomésticos Y&Z",
+    "numero": "926156530"
+  },
+  {
+    "nombre": "Pablo Villanueva",
+    "numero": "926485365"
+  },
+  {
+    "nombre": "Bodega El Águila",
+    "numero": "926764441"
+  },
+  {
+    "nombre": "Cecilia Mena",
+    "numero": "927444520"
+  },
+  {
+    "nombre": "Grupo Empresarial R&L",
+    "numero": "927649628"
+  },
+  {
+    "nombre": "Martín Ramírez",
+    "numero": "927741943"
+  },
+  {
+    "nombre": "Productos Naturales S.A.",
+    "numero": "928231593"
+  },
+  {
+    "nombre": "Laura Morales",
+    "numero": "928385229"
+  },
+  {
+    "nombre": "Distribuciones Flores",
+    "numero": "928970070"
+  },
+  {
+    "nombre": "Marco González",
+    "numero": "930385881"
+  },
+  {
+    "nombre": "Cynthia Cornejo",
+    "numero": "930910643"
+  },
+  {
+    "nombre": "Industrias Agropecuarias",
+    "numero": "931460962"
+  },
+  {
+    "nombre": "Mónica Serrano",
+    "numero": "931573223"
+  },
+  {
+    "nombre": "Consorcio Constructor",
+    "numero": "932302886"
+  },
+  {
+    "nombre": "Estefanía Quiroz",
+    "numero": "934092817"
+  },
+  {
+    "nombre": "Fabricaciones M&N",
+    "numero": "936630144"
+  },
+  {
+    "nombre": "Taller El Rayo",
+    "numero": "936657791"
+  },
+  {
+    "nombre": "Juan Carlos López",
+    "numero": "937796112"
+  },
+  {
+    "nombre": "Gina Paz",
+    "numero": "938311415"
+  },
+  {
+    "nombre": "Construcciones Suárez",
+    "numero": "939842454"
+  },
+  {
+    "nombre": "Inversiones Delta",
+    "numero": "940160294"
+  },
+  {
+    "nombre": "Patricio Suárez",
+    "numero": "941019578"
+  },
+  {
+    "nombre": "Estudio Jurídico C&L",
+    "numero": "943170966"
+  },
+  {
+    "nombre": "Sonia Torres",
+    "numero": "943424016"
+  },
+  {
+    "nombre": "Electrónica El Faro",
+    "numero": "944407231"
+  },
+  {
+    "nombre": "Taller Automotriz Rapid",
+    "numero": "945121411"
+  },
+  {
+    "nombre": "Javier Mendoza",
+    "numero": "945151412"
+  },
+  {
+    "nombre": "Suministros O&M",
+    "numero": "947282833"
+  },
+  {
+    "nombre": "Gloria Gómez",
+    "numero": "948978484"
+  },
+  {
+    "nombre": "Luis Andrade",
+    "numero": "949120990"
+  },
+  {
+    "nombre": "Servicios Financieros X&Y",
+    "numero": "949612453"
+  },
+  {
+    "nombre": "Karla Fernández",
+    "numero": "950872210"
+  },
+  {
+    "nombre": "Nicolás Silva",
+    "numero": "952600810"
+  },
+  {
+    "nombre": "Comercializadora Costa Verde",
+    "numero": "954068774"
+  },
+  {
+    "nombre": "Felipe Aguirre",
+    "numero": "954749576"
+  },
+  {
+    "nombre": "Gustavo Leiva",
+    "numero": "956615777"
+  },
+  {
+    "nombre": "María Julia",
+    "numero": "957838912"
+  },
+  {
+    "nombre": "Grupo Distribuciones",
+    "numero": "958238443"
+  },
+  {
+    "nombre": "Paola Villalobos",
+    "numero": "958601101"
+  },
+  {
+    "nombre": "Cristian Peñaloza",
+    "numero": "958971172"
+  },
+  {
+    "nombre": "Luz Santillán",
+    "numero": "962138394"
+  },
+  {
+    "nombre": "Carmen Salcedo",
+    "numero": "962733526"
+  },
+  {
+    "nombre": "Inversiones Unidas",
+    "numero": "965457901"
+  },
+  {
+    "nombre": "Luis Esteban",
+    "numero": "967994865"
+  },
+  {
+    "nombre": "Consultores JF",
+    "numero": "968688331"
+  },
+  {
+    "nombre": "Gabriela Peñas",
+    "numero": "968731088"
+  },
+  {
+    "nombre": "Comercial Santa Fe",
+    "numero": "968749112"
+  },
+  {
+    "nombre": "Asesorías ABC",
+    "numero": "968889557"
+  },
+  {
+    "nombre": "Fernando Aguayo",
+    "numero": "971600396"
+  },
+  {
+    "nombre": "Distribuciones Turquesa",
+    "numero": "973441701"
+  },
+  {
+    "nombre": "Emilio Núñez",
+    "numero": "975015024"
+  },
+  {
+    "nombre": "Daniel Huertas",
+    "numero": "975633235"
+  },
+  {
+    "nombre": "Carmen Hinojosa",
+    "numero": "976390095"
+  },
+  {
+    "nombre": "Estudios Avanzados",
+    "numero": "976934630"
+  },
+  {
+    "nombre": "Julio Contreras",
+    "numero": "977126957"
+  },
+  {
+    "nombre": "Taller de Muebles S.A.",
+    "numero": "977676307"
+  },
+  {
+    "nombre": "Camila Serrano",
+    "numero": "978901287"
+  },
+  {
+    "nombre": "Alejandro Torres",
+    "numero": "982232794"
+  },
+  {
+    "nombre": "Taller El Buen Amigo",
+    "numero": "982872055"
+  },
+  {
+    "nombre": "Carolina Salazar",
+    "numero": "983683325"
+  },
+  {
+    "nombre": "Jorge Huamán",
+    "numero": "984500770"
+  },
+  {
+    "nombre": "Fabrica de Muebles J&M",
+    "numero": "985168867"
+  },
+  {
+    "nombre": "Servicios Importantes S.A.",
+    "numero": "985224988"
+  },
+  {
+    "nombre": "Luis Chocano",
+    "numero": "986059115"
+  },
+  {
+    "nombre": "Estudio Jurídico González",
+    "numero": "986314182"
+  },
+  {
+    "nombre": "Isabel Marín",
+    "numero": "987062443"
+  },
+  {
+    "nombre": "Rodrigo Valenzuela",
+    "numero": "987663823"
+  },
+  {
+    "nombre": "Distribuciones Rápidas",
+    "numero": "987705605"
+  },
+  {
+    "nombre": "Vicky Álvarez",
+    "numero": "988005924"
+  },
+  {
+    "nombre": "Emprendimientos Únicos",
+    "numero": "990129854"
+  },
+  {
+    "nombre": "Marco Berrios",
+    "numero": "990633097"
+  },
+  {
+    "nombre": "Comercializadora Estrella",
+    "numero": "992565044"
+  },
+  {
+    "nombre": "Taller de Calzado J&A",
+    "numero": "993931932"
+  },
+  {
+    "nombre": "Sergio Paredes",
+    "numero": "994045555"
+  },
+  {
+    "nombre": "Julia Ramírez",
+    "numero": "994122540"
+  },
+  {
+    "nombre": "Estudios de Mercadeo",
+    "numero": "994663340"
+  },
+  {
+    "nombre": "Fernando Pérez",
+    "numero": "994815528"
+  },
+  {
+    "nombre": "Carlos Mendoza",
+    "numero": "900573492"
+  },
+  {
+    "nombre": "Lucía Gómez",
+    "numero": "900837798"
+  },
+  {
+    "nombre": "Fábrica de Juguetes S.A.",
+    "numero": "901014319"
+  },
+  {
+    "nombre": "Juan Pérez",
+    "numero": "901151414"
+  },
+  {
+    "nombre": "Compañía de Construcción ABC",
+    "numero": "902224923"
+  },
+  {
+    "nombre": "Sara Martínez",
+    "numero": "902307925"
+  },
+  {
+    "nombre": "AutoRent S.A.",
+    "numero": "902477757"
+  },
+  {
+    "nombre": "Eduardo Ramírez",
+    "numero": "902934287"
+  },
+  {
+    "nombre": "Tiendas El Futuro",
+    "numero": "904338473"
+  },
+  {
+    "nombre": "María López",
+    "numero": "906090678"
+  },
+  {
+    "nombre": "Café Aroma",
+    "numero": "906240888"
+  },
+  {
+    "nombre": "Pedro Castillo",
+    "numero": "907166424"
+  },
+  {
+    "nombre": "La Casa del Electrodoméstico",
+    "numero": "907182533"
+  },
+  {
+    "nombre": "Diana Torres",
+    "numero": "907727538"
+  },
+  {
+    "nombre": "Servicios Integrales XYZ",
+    "numero": "908438762"
+  },
+  {
+    "nombre": "José Hernández",
+    "numero": "908872547"
+  },
+  {
+    "nombre": "Panadería La Esperanza",
+    "numero": "909406502"
+  },
+  {
+    "nombre": "Juanita Cruz",
+    "numero": "909954232"
+  },
+  {
+    "nombre": "Salón de Belleza Glamour",
+    "numero": "910450913"
+  },
+  {
+    "nombre": "Andrés Fernández",
+    "numero": "910865448"
+  },
+  {
+    "nombre": "Muebles y Decoración S.A.",
+    "numero": "911397896"
+  },
+  {
+    "nombre": "Claudia Ríos",
+    "numero": "911695592"
+  },
+  {
+    "nombre": "Gastronomía Gourmet",
+    "numero": "912098031"
+  },
+  {
+    "nombre": "Fabiola Torres",
+    "numero": "912201708"
+  },
+  {
+    "nombre": "Compañía de Tecnología ABC",
+    "numero": "912246757"
+  },
+  {
+    "nombre": "Alfredo Quiroz",
+    "numero": "912591478"
+  },
+  {
+    "nombre": "Librería El Saber",
+    "numero": "913672570"
+  },
+  {
+    "nombre": "Estudio Creativo 3D",
+    "numero": "913946824"
+  },
+  {
+    "nombre": "Juan Carlos Pérez",
+    "numero": "914659835"
+  },
+  {
+    "nombre": "Comercio Internacional S.A.",
+    "numero": "914793457"
+  },
+  {
+    "nombre": "Miguel Torres",
+    "numero": "915259270"
+  },
+  {
+    "nombre": "Seguros XYZ",
+    "numero": "916384842"
+  },
+  {
+    "nombre": "Cecilia Medina",
+    "numero": "916705849"
+  },
+  {
+    "nombre": "Repuestos Automotrices",
+    "numero": "917849775"
+  },
+  {
+    "nombre": "Katherine Ruiz",
+    "numero": "918230886"
+  },
+  {
+    "nombre": "Ciber Café La Red",
+    "numero": "918920147"
+  },
+  {
+    "nombre": "Nicolas Ramírez",
+    "numero": "919814543"
+  },
+  {
+    "nombre": "Distribuidora de Productos S.A.",
+    "numero": "920051915"
+  },
+  {
+    "nombre": "Helados Naturales",
+    "numero": "920313126"
+  },
+  {
+    "nombre": "Jardinería El Edén",
+    "numero": "920397001"
+  },
+  {
+    "nombre": "Inmobiliaria La Mejor Opción",
+    "numero": "920616599"
+  },
+  {
+    "nombre": "Alimentos Saludables",
+    "numero": "920985290"
+  },
+  {
+    "nombre": "Servicios de Limpieza ABC",
+    "numero": "921484936"
+  },
+  {
+    "nombre": "Gimnasio Fuerza Vital",
+    "numero": "921692603"
+  },
+  {
+    "nombre": "Compañía de Viajes XYZ",
+    "numero": "921925036"
+  },
+  {
+    "nombre": "Cafetería del Parque",
+    "numero": "922761854"
+  },
+  {
+    "nombre": "Floristería El Jardín",
+    "numero": "923000503"
+  },
+  {
+    "nombre": "Tienda de Mascotas",
+    "numero": "923161912"
+  },
+  {
+    "nombre": "Mantenimiento Industrial",
+    "numero": "923171859"
+  },
+  {
+    "nombre": "Alquiler de Autos",
+    "numero": "923237608"
+  },
+  {
+    "nombre": "Hotel Buen Descanso",
+    "numero": "924073864"
+  },
+  {
+    "nombre": "Panadería La Tradición",
+    "numero": "924363674"
+  },
+  {
+    "nombre": "Sastrería El Clásico",
+    "numero": "924997627"
+  },
+  {
+    "nombre": "Distribuidora de Licores",
+    "numero": "925185142"
+  },
+  {
+    "nombre": "Compañía de Seguridad Privada",
+    "numero": "925654147"
+  },
+  {
+    "nombre": "Cuidado del Hogar",
+    "numero": "925671339"
+  },
+  {
+    "nombre": "Electrodomésticos y Más",
+    "numero": "926637096"
+  },
+  {
+    "nombre": "Ferretería El Progreso",
+    "numero": "927467125"
+  },
+  {
+    "nombre": "Ropa y Accesorios",
+    "numero": "927686309"
+  },
+  {
+    "nombre": "Cafetería y Pastelería Delicia",
+    "numero": "928239980"
+  },
+  {
+    "nombre": "Tienda de Electrónica",
+    "numero": "928585020"
+  },
+  {
+    "nombre": "Compañía de Eventos",
+    "numero": "928685352"
+  },
+  {
+    "nombre": "Salud y Belleza",
+    "numero": "928857847"
+  },
+  {
+    "nombre": "Inversiones Rápidas",
+    "numero": "929290803"
+  },
+  {
+    "nombre": "Zapatillas y Más",
+    "numero": "930978806"
+  },
+  {
+    "nombre": "Servicio Técnico de Computadoras",
+    "numero": "931101085"
+  },
+  {
+    "nombre": "Estudio Fotográfico Luz",
+    "numero": "931534615"
+  },
+  {
+    "nombre": "Decoración y Diseño de Interiores",
+    "numero": "931567345"
+  },
+  {
+    "nombre": "Consultora Empresarial",
+    "numero": "932189096"
+  },
+  {
+    "nombre": "Sistemas de Seguridad",
+    "numero": "932671782"
+  },
+  {
+    "nombre": "Viajes y Turismo",
+    "numero": "933965403"
+  },
+  {
+    "nombre": "Agencia de Publicidad",
+    "numero": "934953509"
+  },
+  {
+    "nombre": "Compañía de Telecomunicaciones",
+    "numero": "935230483"
+  },
+  {
+    "nombre": "Tienda de Ropa Juvenil",
+    "numero": "935335856"
+  },
+  {
+    "nombre": "Grupo de Marketing Digital",
+    "numero": "935725779"
+  },
+  {
+    "nombre": "Compañía de Alimentos",
+    "numero": "936070423"
+  },
+  {
+    "nombre": "Inmobiliaria Moderna",
+    "numero": "936119266"
+  },
+  {
+    "nombre": "Gestión de Proyectos",
+    "numero": "936635364"
+  },
+  {
+    "nombre": "Club Deportivo Local",
+    "numero": "938910224"
+  },
+  {
+    "nombre": "Agencia de Modelos",
+    "numero": "939210800"
+  },
+  {
+    "nombre": "Tienda de Muebles",
+    "numero": "940093505"
+  },
+  {
+    "nombre": "Panadería Delicias",
+    "numero": "940270116"
+  },
+  {
+    "nombre": "Tienda de Tecnología Avanzada",
+    "numero": "940631399"
+  },
+  {
+    "nombre": "Distribución de Alimentos",
+    "numero": "940654506"
+  },
+  {
+    "nombre": "Inversión y Finanzas",
+    "numero": "942209960"
+  },
+  {
+    "nombre": "Construcción y Diseño",
+    "numero": "942620082"
+  },
+  {
+    "nombre": "Academia de Idiomas",
+    "numero": "943081489"
+  },
+  {
+    "nombre": "Consultoría de Negocios",
+    "numero": "943211987"
+  },
+  {
+    "nombre": "Comercialización de Productos",
+    "numero": "944372893"
+  },
+  {
+    "nombre": "Servicios de Transporte",
+    "numero": "944632448"
+  },
+  {
+    "nombre": "Distribución de Medicamentos",
+    "numero": "945540817"
+  },
+  {
+    "nombre": "Electrodomésticos Rápidos",
+    "numero": "945686701"
+  },
+  {
+    "nombre": "Salud y Bienestar",
+    "numero": "946378405"
+  },
+  {
+    "nombre": "Arte y Diseño",
+    "numero": "946396514"
+  },
+  {
+    "nombre": "Tecnologías de la Información",
+    "numero": "946415153"
+  },
+  {
+    "nombre": "Estudio de Grabación",
+    "numero": "946628031"
+  },
+  {
+    "nombre": "Impresión y Diseño Gráfico",
+    "numero": "947472473"
+  },
+  {
+    "nombre": "Limpieza y Mantenimiento",
+    "numero": "948209423"
+  },
+  {
+    "nombre": "Desarrollo de Software",
+    "numero": "948546319"
+  },
+  {
+    "nombre": "Café y Restaurante",
+    "numero": "948725914"
+  },
+  {
+    "nombre": "Negocios de Éxito",
+    "numero": "949102908"
+  },
+  {
+    "nombre": "Ciberseguridad y Protección de Datos",
+    "numero": "949339225"
+  },
+  {
+    "nombre": "Compu-Servicios",
+    "numero": "949845046"
+  },
+  {
+    "nombre": "Tienda de Música",
+    "numero": "950164254"
+  },
+  {
+    "nombre": "Centro de Entretenimiento",
+    "numero": "950259295"
+  },
+  {
+    "nombre": "Estudio de Arte",
+    "numero": "950399385"
+  },
+  {
+    "nombre": "Servicios Fotográficos",
+    "numero": "950550789"
+  },
+  {
+    "nombre": "Agencia de Viajes y Turismo",
+    "numero": "951145075"
+  },
+  {
+    "nombre": "Comercio de Alimentos",
+    "numero": "951258740"
+  },
+  {
+    "nombre": "Cuidado Personal",
+    "numero": "951874015"
+  },
+  {
+    "nombre": "Restaurante Gourmet",
+    "numero": "952001297"
+  },
+  {
+    "nombre": "Gráficas y Publicidad",
+    "numero": "952486311"
+  },
+  {
+    "nombre": "Servicios de Jardinería",
+    "numero": "953469149"
+  },
+  {
+    "nombre": "Academia de Música",
+    "numero": "953492128"
+  },
+  {
+    "nombre": "Distribución de Productos",
+    "numero": "954041986"
+  },
+  {
+    "nombre": "Tienda de Accesorios",
+    "numero": "954093730"
+  },
+  {
+    "nombre": "Reparaciones Rápidas",
+    "numero": "954105068"
+  },
+  {
+    "nombre": "Restauración de Muebles",
+    "numero": "954218586"
+  },
+  {
+    "nombre": "Servicios de Edición",
+    "numero": "954370346"
+  },
+  {
+    "nombre": "Academia de Deportes",
+    "numero": "954560027"
+  },
+  {
+    "nombre": "Gestión de Eventos",
+    "numero": "955160909"
+  },
+  {
+    "nombre": "Centro de Fitness",
+    "numero": "955265775"
+  },
+  {
+    "nombre": "Laboratorio de Tecnología",
+    "numero": "955748482"
+  },
+  {
+    "nombre": "Viajes y Aventura",
+    "numero": "955789393"
+  },
+  {
+    "nombre": "Estudio de Televisión",
+    "numero": "956124872"
+  },
+  {
+    "nombre": "Agencia de Modelos y Actores",
+    "numero": "956392310"
+  },
+  {
+    "nombre": "Comercializadora de Juguetes",
+    "numero": "956663059"
+  },
+  {
+    "nombre": "Distribuidor de Ropa",
+    "numero": "957123342"
+  },
+  {
+    "nombre": "Tienda de Accesorios para Vehículos",
+    "numero": "957456345"
+  },
+  {
+    "nombre": "Academia de Matemáticas",
+    "numero": "958201882"
+  },
+  {
+    "nombre": "Instituto de Formación Profesional",
+    "numero": "958612407"
+  },
+  {
+    "nombre": "Cuidado de Mascotas",
+    "numero": "958641175"
+  },
+  {
+    "nombre": "Distribución de Tecnología",
+    "numero": "958844530"
+  },
+  {
+    "nombre": "Repuestos de Automóviles",
+    "numero": "959078326"
+  },
+  {
+    "nombre": "Servicios de Traducción",
+    "numero": "959200429"
+  },
+  {
+    "nombre": "Salón de Estética",
+    "numero": "959546174"
+  },
+  {
+    "nombre": "Distribuidor de Electrodomésticos",
+    "numero": "959648827"
+  },
+  {
+    "nombre": "Academia de Artes",
+    "numero": "959707390"
+  },
+  {
+    "nombre": "Soluciones Informáticas",
+    "numero": "960140703"
+  },
+  {
+    "nombre": "Tienda de Bicicletas",
+    "numero": "960269576"
+  },
+  {
+    "nombre": "Asesoría Empresarial",
+    "numero": "960352270"
+  },
+  {
+    "nombre": "Reparación de Computadoras",
+    "numero": "960514793"
+  },
+  {
+    "nombre": "Cuidado de Jardines",
+    "numero": "960547913"
+  },
+  {
+    "nombre": "Laboratorio Químico",
+    "numero": "960760813"
+  },
+  {
+    "nombre": "Centro de Yoga",
+    "numero": "961095271"
+  },
+  {
+    "nombre": "Construcción y Mantenimiento",
+    "numero": "961237454"
+  },
+  {
+    "nombre": "Academia de Ciencias",
+    "numero": "961265797"
+  },
+  {
+    "nombre": "Instituto de Idiomas",
+    "numero": "961545412"
+  },
+  {
+    "nombre": "Reparación de Electrodomésticos",
+    "numero": "961774659"
+  },
+  {
+    "nombre": "Distribución de Materiales",
+    "numero": "961896843"
+  },
+  {
+    "nombre": "Cafetería y Bar",
+    "numero": "962273563"
+  },
+  {
+    "nombre": "Producción Audiovisual",
+    "numero": "962325823"
+  },
+  {
+    "nombre": "Agencia de Comunicación",
+    "numero": "962649101"
+  },
+  {
+    "nombre": "Cuidado del Bebé",
+    "numero": "962762170"
+  },
+  {
+    "nombre": "Producción de Eventos",
+    "numero": "962883764"
+  },
+  {
+    "nombre": "Distribución de Electrónica",
+    "numero": "963240123"
+  },
+  {
+    "nombre": "Cuidado de Adultos Mayores",
+    "numero": "963478159"
+  },
+  {
+    "nombre": "Restaurantes de Comida Rápida",
+    "numero": "963722064"
+  },
+  {
+    "nombre": "Salón de Estética y Belleza",
+    "numero": "964361770"
+  },
+  {
+    "nombre": "Academia de Salud",
+    "numero": "964370902"
+  },
+  {
+    "nombre": "Agencia de Relaciones Públicas",
+    "numero": "964532621"
+  },
+  {
+    "nombre": "Alquiler de Herramientas",
+    "numero": "964757093"
+  },
+  {
+    "nombre": "Cuidado de Animales",
+    "numero": "964795573"
+  },
+  {
+    "nombre": "Consultoría de Tecnología",
+    "numero": "964823963"
+  },
+  {
+    "nombre": "Comercialización de Productos Alimenticios",
+    "numero": "964918527"
+  },
+  {
+    "nombre": "Restauración y Conservación",
+    "numero": "965149418"
+  },
+  {
+    "nombre": "Clases de Cocina",
+    "numero": "965453582"
+  },
+  {
+    "nombre": "Tienda de Juguetes y Juegos",
+    "numero": "965556789"
+  },
+  {
+    "nombre": "Salón de Música",
+    "numero": "965854321"
+  },
+  {
+    "nombre": "Centro de Música y Danza",
+    "numero": "966237890"
+  },
+  {
+    "nombre": "Suministros de Oficina",
+    "numero": "966634205"
+  },
+  {
+    "nombre": "Agencia de Empleo",
+    "numero": "966793120"
+  },
+  {
+    "nombre": "Servicios de Marketing",
+    "numero": "966899476"
+  },
+  {
+    "nombre": "Academia de Inglés",
+    "numero": "967304601"
+  },
+  {
+    "nombre": "Gestión de Recursos Humanos",
+    "numero": "967533812"
+  },
+  {
+    "nombre": "Cuidado del Medio Ambiente",
+    "numero": "967820409"
+  },
+  {
+    "nombre": "Asesoría de Proyectos",
+    "numero": "968049623"
+  },
+  {
+    "nombre": "Tienda de Regalos",
+    "numero": "968084245"
+  },
+  {
+    "nombre": "Cuidado de la Salud",
+    "numero": "968365926"
+  },
+  {
+    "nombre": "Reparación de Vehículos",
+    "numero": "968554731"
+  },
+  {
+    "nombre": "Comercio de Ropa",
+    "numero": "968568789"
+  },
+  {
+    "nombre": "Academia de Fotografía",
+    "numero": "969104760"
+  },
+  {
+    "nombre": "Salón de Eventos",
+    "numero": "969376843"
+  },
+  {
+    "nombre": "Agencia de Diseño Gráfico",
+    "numero": "969564938"
+  },
+  {
+    "nombre": "Centro de Belleza",
+    "numero": "969794218"
+  },
+  {
+    "nombre": "Servicios de Recursos Humanos",
+    "numero": "969811725"
+  },
+  {
+    "nombre": "Tienda de Móviles",
+    "numero": "970082394"
+  },
+  {
+    "nombre": "Laboratorio de Pruebas",
+    "numero": "970148231"
+  },
+  {
+    "nombre": "Distribuidor de Material de Oficina",
+    "numero": "970646182"
+  },
+  {
+    "nombre": "Cuidado de la Piel",
+    "numero": "970851973"
+  },
+  {
+    "nombre": "Tienda de Productos Naturales",
+    "numero": "971197512"
+  },
+  {
+    "nombre": "Asesoría Legal",
+    "numero": "971326748"
+  },
+  {
+    "nombre": "Centro de Bienestar",
+    "numero": "971418256"
+  },
+  {
+    "nombre": "Servicios de Almacenamiento",
+    "numero": "971643452"
+  },
+  {
+    "nombre": "Escuela de Música",
+    "numero": "972057183"
+  },
+  {
+    "nombre": "Distribuidor de Tecnología y Equipos",
+    "numero": "972123456"
+  },
+  {
+    "nombre": "Academia de Artes Plásticas",
+    "numero": "972467123"
+  },
+  {
+    "nombre": "Consultoría de Recursos Humanos",
+    "numero": "972569847"
+  },
+  {
+    "nombre": "Servicios de Construcción",
+    "numero": "972654321"
+  },
+  {
+    "nombre": "Restauración de Obras de Arte",
+    "numero": "973222345"
+  },
+  {
+    "nombre": "Centro de Idiomas",
+    "numero": "973666982"
+  },
+  {
+    "nombre": "Cuidado de Mascotas y Animales",
+    "numero": "974006541"
+  },
+  {
+    "nombre": "Agencia de Publicidad",
+    "numero": "974005321"
+  },
+  {
+    "nombre": "Tienda de Electrónica",
+    "numero": "974100254"
+  },
+  {
+    "nombre": "Consultoría Financiera",
+    "numero": "974554321"
+  },
+  {
+    "nombre": "Cuidado de la Vista",
+    "numero": "974612345"
+  },
+  {
+    "nombre": "Servicios de Transporte",
+    "numero": "974999999"
+  },
+  {
+    "nombre": "Servicios Integrales TechNova",
+    "numero": "900249313"
+  },
+  {
+    "nombre": "Distribuciones Alimentarias Gourmet",
+    "numero": "900822611"
+  },
+  {
+    "nombre": "Consultores de Innovación EcoGreen",
+    "numero": "900924361"
+  },
+  {
+    "nombre": "Muebles y Decoración Moderna",
+    "numero": "901131203"
+  },
+  {
+    "nombre": "Soluciones Informáticas Avanzadas",
+    "numero": "901224255"
+  },
+  {
+    "nombre": "Construcciones y Remodelaciones XYZ",
+    "numero": "901472463"
+  },
+  {
+    "nombre": "Academia de Artes y Cultura",
+    "numero": "901494903"
+  },
+  {
+    "nombre": "Comercializadora de Productos Ecológicos",
+    "numero": "902642245"
+  },
+  {
+    "nombre": "Gestión de Proyectos Globales",
+    "numero": "902644231"
+  },
+  {
+    "nombre": "Asesoría Financiera y Contable",
+    "numero": "903959686"
+  },
+  {
+    "nombre": "Agencia de Publicidad Creativa",
+    "numero": "904360221"
+  },
+  {
+    "nombre": "Importaciones y Exportaciones Internacionales",
+    "numero": "904474908"
+  },
+  {
+    "nombre": "Salud y Bienestar Integral",
+    "numero": "905806751"
+  },
+  {
+    "nombre": "Electrodomésticos y Tecnología",
+    "numero": "905900184"
+  },
+  {
+    "nombre": "Viajes y Turismo Experiencial",
+    "numero": "906145330"
+  },
+  {
+    "nombre": "Formación y Capacitación Profesional",
+    "numero": "906415351"
+  },
+  {
+    "nombre": "Desarrollo de Software a Medida",
+    "numero": "906705563"
+  },
+  {
+    "nombre": "Soluciones Logísticas y Transporte",
+    "numero": "906824105"
+  },
+  {
+    "nombre": "Inversiones Inmobiliarias Premium",
+    "numero": "907173450"
+  },
+  {
+    "nombre": "Jardinería y Paisajismo Ecológico",
+    "numero": "907229906"
+  },
+  {
+    "nombre": "Tienda de Ropa Sostenible",
+    "numero": "907235052"
+  },
+  {
+    "nombre": "Centro de Fitness y Salud",
+    "numero": "907307680"
+  },
+  {
+    "nombre": "Asesoría Jurídica y Legal",
+    "numero": "908701846"
+  },
+  {
+    "nombre": "Revista Digital de Moda y Estilo",
+    "numero": "908997613"
+  },
+  {
+    "nombre": "Eventos y Producciones Artísticas",
+    "numero": "909417560"
+  },
+  {
+    "nombre": "Alquiler de Equipos Audiovisuales",
+    "numero": "909807400"
+  },
+  {
+    "nombre": "Consultores de Energía Renovable",
+    "numero": "910028711"
+  },
+  {
+    "nombre": "Estudio de Diseño Gráfico Creativo",
+    "numero": "910436707"
+  },
+  {
+    "nombre": "Asesoría en Marketing Digital",
+    "numero": "910506988"
+  },
+  {
+    "nombre": "Catering y Banquetes Exclusivos",
+    "numero": "910681403"
+  },
+  {
+    "nombre": "Fabricación de Juguetes Educativos",
+    "numero": "911536512"
+  },
+  {
+    "nombre": "Inmobiliaria y Bienes Raíces",
+    "numero": "911612760"
+  },
+  {
+    "nombre": "Estudio de Fotografía Profesional",
+    "numero": "911770205"
+  },
+  {
+    "nombre": "Tienda de Tecnología y Gadgets",
+    "numero": "912020261"
+  },
+  {
+    "nombre": "Plataforma de Educación en Línea",
+    "numero": "912431608"
+  },
+  {
+    "nombre": "Comercio de Artículos de Deportes",
+    "numero": "913643866"
+  },
+  {
+    "nombre": "Investigación y Desarrollo Científico",
+    "numero": "914043654"
+  },
+  {
+    "nombre": "Tienda de Decoración y Hogar",
+    "numero": "914274626"
+  },
+  {
+    "nombre": "Distribuidora de Bebidas Naturales",
+    "numero": "914493364"
+  },
+  {
+    "nombre": "Consultores de Seguridad Informática",
+    "numero": "915151482"
+  },
+  {
+    "nombre": "Estudio de Arquitectura y Urbanismo",
+    "numero": "915323889"
+  },
+  {
+    "nombre": "Comercializadora de Equipos Médicos",
+    "numero": "915450306"
+  },
+  {
+    "nombre": "Asesoría en Recursos Humanos",
+    "numero": "915470794"
+  },
+  {
+    "nombre": "Desarrollo de Aplicaciones Móviles",
+    "numero": "916877749"
+  },
+  {
+    "nombre": "Tienda de Ropa Infantil",
+    "numero": "917137484"
+  },
+  {
+    "nombre": "Servicios de Limpieza y Mantenimiento",
+    "numero": "918202823"
+  },
+  {
+    "nombre": "Agencia de Viajes y Turismo",
+    "numero": "918275186"
+  },
+  {
+    "nombre": "Tienda de Juguetes y Juegos",
+    "numero": "918607574"
+  },
+  {
+    "nombre": "Desarrollo de Videojuegos Interactivos",
+    "numero": "919223087"
+  },
+  {
+    "nombre": "Consultoría en Estrategia Empresarial",
+    "numero": "920206861"
+  },
+  {
+    "nombre": "Agencia de Marketing y Publicidad",
+    "numero": "920640222"
+  },
+  {
+    "nombre": "Servicios de Mensajería Exprés",
+    "numero": "920969008"
+  },
+  {
+    "nombre": "Escuela de Música y Artes",
+    "numero": "921555853"
+  },
+  {
+    "nombre": "Centro de Atención al Cliente",
+    "numero": "921705572"
+  },
+  {
+    "nombre": "Tienda de Ropa y Accesorios",
+    "numero": "922466523"
+  },
+  {
+    "nombre": "Compañía de Seguridad Privada",
+    "numero": "922695254"
+  },
+  {
+    "nombre": "Consultores en Sostenibilidad",
+    "numero": "923006918"
+  },
+  {
+    "nombre": "Tienda de Electrodomésticos",
+    "numero": "923506488"
+  },
+  {
+    "nombre": "Soluciones en Energía Solar",
+    "numero": "924037174"
+  },
+  {
+    "nombre": "Alquiler de Vehículos de Lujo",
+    "numero": "924750508"
+  },
+  {
+    "nombre": "Comercializadora de Muebles",
+    "numero": "925144636"
+  },
+  {
+    "nombre": "Academia de Idiomas",
+    "numero": "925232611"
+  },
+  {
+    "nombre": "Centro de Bienestar y Spa",
+    "numero": "925294152"
+  },
+  {
+    "nombre": "Asesoría en Proyectos Sociales",
+    "numero": "925661690"
+  },
+  {
+    "nombre": "Plataforma de Streaming Musical",
+    "numero": "926832244"
+  },
+  {
+    "nombre": "Estudio de Yoga y Meditación",
+    "numero": "927315170"
+  },
+  {
+    "nombre": "Servicios de Catering Saludable",
+    "numero": "927440131"
+  },
+  {
+    "nombre": "Tienda de Mascotas y Accesorios",
+    "numero": "928357084"
+  },
+  {
+    "nombre": "Centro de Fitness y Entrenamiento",
+    "numero": "928374385"
+  },
+  {
+    "nombre": "Agencia de Fotografía de Eventos",
+    "numero": "928707597"
+  },
+  {
+    "nombre": "Consultores en Tecnología Educativa",
+    "numero": "930478960"
+  },
+  {
+    "nombre": "Estudio de Diseño de Interiores",
+    "numero": "931126828"
+  },
+  {
+    "nombre": "Agencia de Viajes Internacionales",
+    "numero": "931813794"
+  },
+  {
+    "nombre": "Consultoría en Innovación Empresarial",
+    "numero": "931973123"
+  },
+  {
+    "nombre": "Servicios de Rehabilitación Física",
+    "numero": "932940553"
+  },
+  {
+    "nombre": "Comercio de Suministros de Oficina",
+    "numero": "933040667"
+  },
+  {
+    "nombre": "Escuela de Desarrollo Personal",
+    "numero": "933150745"
+  },
+  {
+    "nombre": "Estudio de Grabación Musical",
+    "numero": "933727979"
+  },
+  {
+    "nombre": "Agencia de Publicidad Digital",
+    "numero": "934429298"
+  },
+  {
+    "nombre": "Consultores de Energía Eficiente",
+    "numero": "934571269"
+  },
+  {
+    "nombre": "Distribuidora de Productos de Belleza",
+    "numero": "934624792"
+  },
+  {
+    "nombre": "Estudio de Animación Digital",
+    "numero": "934823511"
+  },
+  {
+    "nombre": "Comercializadora de Equipos de Seguridad",
+    "numero": "936730891"
+  },
+  {
+    "nombre": "Agencia de Modelos y Talentos",
+    "numero": "936805375"
+  },
+  {
+    "nombre": "Tienda de Productos Naturales",
+    "numero": "936873911"
+  },
+  {
+    "nombre": "Consultores en Seguridad Alimentaria",
+    "numero": "937094102"
+  },
+  {
+    "nombre": "Centro de Bienestar Mental",
+    "numero": "938031901"
+  },
+  {
+    "nombre": "Servicios de Impresión y Diseño",
+    "numero": "938122015"
+  },
+  {
+    "nombre": "Estudio de Producción Cinematográfica",
+    "numero": "939219456"
+  },
+  {
+    "nombre": "Agencia de Eventos Corporativos",
+    "numero": "940198611"
+  },
+  {
+    "nombre": "Desarrollo de Plataformas Digitales",
+    "numero": "940257304"
+  },
+  {
+    "nombre": "Tienda de Productos para el Hogar",
+    "numero": "941384807"
+  },
+  {
+    "nombre": "Comercio de Artículos de Limpieza",
+    "numero": "942056330"
+  },
+  {
+    "nombre": "Academia de Formación Técnica",
+    "numero": "942098617"
+  },
+  {
+    "nombre": "Centro de Medicina Alternativa",
+    "numero": "943208177"
+  },
+  {
+    "nombre": "Comercializadora de Tecnología Médica",
+    "numero": "943264101"
+  },
+  {
+    "nombre": "Tienda de Instrumentos Musicales",
+    "numero": "944017068"
+  },
+  {
+    "nombre": "Servicios de Mantenimiento y Reparación",
+    "numero": "944408509"
+  },
+  {
+    "nombre": "Comercio de Ropa y Accesorios de Moda",
+    "numero": "944646503"
+  },
+  {
+    "nombre": "Tienda de Antigüedades y Coleccionables",
+    "numero": "944754643"
+  },
+  {
+    "nombre": "Agencia de Relaciones Públicas",
+    "numero": "945576066"
+  },
+  {
+    "nombre": "Plataforma de Aprendizaje Interactivo",
+    "numero": "946011702"
+  },
+  {
+    "nombre": "Centro de Terapias Alternativas",
+    "numero": "946120975"
+  },
+  {
+    "nombre": "Comercio de Artículos de Jardinería",
+    "numero": "946300905"
+  },
+  {
+    "nombre": "Servicios de Traducción y Localización",
+    "numero": "946428765"
+  },
+  {
+    "nombre": "Tienda de Suministros para Manualidades",
+    "numero": "946872673"
+  },
+  {
+    "nombre": "Agencia de Investigación de Mercado",
+    "numero": "946952726"
+  },
+  {
+    "nombre": "Centro de Salud y Nutrición",
+    "numero": "947328765"
+  },
+  {
+    "nombre": "Estudio de Diseño Industrial",
+    "numero": "947499005"
+  },
+  {
+    "nombre": "Agencia de Turismo de Aventura",
+    "numero": "948119830"
+  },
+  {
+    "nombre": "Consultoría en Gestión de Proyectos",
+    "numero": "948456268"
+  },
+  {
+    "nombre": "Servicios de Organización de Eventos",
+    "numero": "948551307"
+  },
+  {
+    "nombre": "Comercio de Herramientas y Equipos",
+    "numero": "948614401"
+  },
+  {
+    "nombre": "Estudio de Mercado y Estrategia",
+    "numero": "948860218"
+  },
+  {
+    "nombre": "Agencia de Comunicaciones Creativas",
+    "numero": "949142038"
+  },
+  {
+    "nombre": "Desarrollo de Software Educativo",
+    "numero": "949369712"
+  },
+  {
+    "nombre": "Tienda de Accesorios de Automóviles",
+    "numero": "949792882"
+  },
+  {
+    "nombre": "Centro de Atención Psicológica",
+    "numero": "949921404"
+  },
+  {
+    "nombre": "Comercializadora de Productos Químicos",
+    "numero": "950222045"
+  },
+  {
+    "nombre": "Consultoría en Desarrollo Sostenible",
+    "numero": "950320679"
+  },
+  {
+    "nombre": "Tienda de Muebles para Oficina",
+    "numero": "950639788"
+  },
+  {
+    "nombre": "Estudio de Fotografía de Producto",
+    "numero": "951389223"
+  },
+  {
+    "nombre": "Servicios de Consultoría Ambiental",
+    "numero": "951585447"
+  },
+  {
+    "nombre": "Agencia de Talento Artístico",
+    "numero": "951766275"
+  },
+  {
+    "nombre": "Comercio de Productos Electrónicos",
+    "numero": "951857840"
+  },
+  {
+    "nombre": "Centro de Formación y Capacitación",
+    "numero": "952103647"
+  },
+  {
+    "nombre": "Desarrollo de Juegos de Mesa",
+    "numero": "952311211"
+  },
+  {
+    "nombre": "Agencia de Prensa y Medios",
+    "numero": "952483140"
+  },
+  {
+    "nombre": "Servicios de Evaluación de Riesgos",
+    "numero": "952804596"
+  },
+  {
+    "nombre": "Consultores de Estrategia Digital",
+    "numero": "953116088"
+  },
+  {
+    "nombre": "Estudio de Arquitectura Sostenible",
+    "numero": "953245310"
+  },
+  {
+    "nombre": "Comercializadora de Muebles de Jardín",
+    "numero": "953545601"
+  },
+  {
+    "nombre": "Agencia de Viajes de Lujo",
+    "numero": "953634093"
+  },
+  {
+    "nombre": "Tienda de Suministros Médicos",
+    "numero": "954197845"
+  },
+  {
+    "nombre": "Centro de Tecnología de la Información",
+    "numero": "954576104"
+  },
+  {
+    "nombre": "Comercio de Productos de Limpieza",
+    "numero": "954713611"
+  },
+  {
+    "nombre": "Consultoría en Marketing de Contenidos",
+    "numero": "955242878"
+  },
+  {
+    "nombre": "Servicios de Rehabilitación y Terapia",
+    "numero": "955296572"
+  },
+  {
+    "nombre": "Tienda de Equipos de Fitness",
+    "numero": "955385011"
+  },
+  {
+    "nombre": "Estudio de Artes Visuales",
+    "numero": "955444028"
+  },
+  {
+    "nombre": "Agencia de Representación Artística",
+    "numero": "955513190"
+  },
+  {
+    "nombre": "Desarrollo de Aplicaciones Web",
+    "numero": "955661247"
+  },
+  {
+    "nombre": "Servicios de Consultoría Educativa",
+    "numero": "956050302"
+  },
+  {
+    "nombre": "Centro de Innovación y Creatividad",
+    "numero": "956138906"
+  },
+  {
+    "nombre": "Comercio de Equipos de Oficina",
+    "numero": "956494603"
+  },
+  {
+    "nombre": "Agencia de Diseño de Experiencia de Usuario",
+    "numero": "956509276"
+  },
+  {
+    "nombre": "Servicios de Telemedicina",
+    "numero": "956752920"
+  },
+  {
+    "nombre": "Tienda de Equipos de Fotografía",
+    "numero": "957014105"
+  },
+  {
+    "nombre": "Estudio de Animación y Diseño",
+    "numero": "957122635"
+  },
+  {
+    "nombre": "Comercio de Productos de Limpieza Profesional",
+    "numero": "957433982"
+  },
+  {
+    "nombre": "Agencia de Desarrollo de Talento",
+    "numero": "957459258"
+  },
+  {
+    "nombre": "Consultoría en Gestión del Cambio",
+    "numero": "957623171"
+  },
+  {
+    "nombre": "Servicios de Asesoría para Emprendedores",
+    "numero": "957754840"
+  },
+  {
+    "nombre": "Desarrollo de Software de Gestión",
+    "numero": "958042090"
+  },
+  {
+    "nombre": "Centro de Desarrollo Infantil",
+    "numero": "958285270"
+  },
+  {
+    "nombre": "Agencia de Organización de Eventos",
+    "numero": "958320089"
+  },
+  {
+    "nombre": "Comercio de Materiales de Construcción",
+    "numero": "958610494"
+  },
+  {
+    "nombre": "Servicios de Diseño Gráfico",
+    "numero": "958657953"
+  },
+  {
+    "nombre": "Centro de Entrenamiento de Mascotas",
+    "numero": "958773697"
+  },
+  {
+    "nombre": "Agencia de Innovación y Creatividad",
+    "numero": "958929267"
+  },
+  {
+    "nombre": "Tienda de Accesorios para Mascotas",
+    "numero": "959024563"
+  },
+  {
+    "nombre": "Servicios de Consultoría en Salud",
+    "numero": "959198503"
+  },
+  {
+    "nombre": "Desarrollo de Proyectos Sociales",
+    "numero": "959400028"
+  },
+  {
+    "nombre": "Centro de Atención de Emergencias",
+    "numero": "959565762"
+  },
+  {
+    "nombre": "Comercio de Herramientas de Jardinería",
+    "numero": "959783119"
+  },
+  {
+    "nombre": "Agencia de Diseño de Moda",
+    "numero": "960159332"
+  },
+  {
+    "nombre": "Servicios de Fotografía y Videografía",
+    "numero": "960388499"
+  },
+  {
+    "nombre": "Comercio de Suministros de Jardinería",
+    "numero": "960477476"
+  },
+  {
+    "nombre": "Agencia de Recursos Humanos",
+    "numero": "960905005"
+  },
+  {
+    "nombre": "Centro de Entrenamiento de Habilidades",
+    "numero": "961221298"
+  },
+  {
+    "nombre": "Servicios de Consultoría de Imagen",
+    "numero": "961655480"
+  },
+  {
+    "nombre": "Estudio de Creación de Contenidos",
+    "numero": "961742125"
+  },
+  {
+    "nombre": "Comercio de Ropa y Calzado Deportivo",
+    "numero": "962055123"
+  },
+  {
+    "nombre": "Agencia de Marketing Digital",
+    "numero": "962311802"
+  },
+  {
+    "nombre": "Desarrollo de Soluciones Informáticas",
+    "numero": "962525739"
+  },
+  {
+    "nombre": "Tienda de Decoración para el Hogar",
+    "numero": "962616583"
+  },
+  {
+    "nombre": "Centro de Asesoramiento Financiero",
+    "numero": "963184278"
+  },
+  {
+    "nombre": "Agencia de Producción de Medios",
+    "numero": "963335673"
+  },
+  {
+    "nombre": "Comercio de Productos Naturales",
+    "numero": "963498201"
+  },
+  {
+    "nombre": "Servicios de Limpieza y Mantenimiento",
+    "numero": "963626759"
+  },
+  {
+    "nombre": "Centro de Capacitación Profesional",
+    "numero": "963834420"
+  },
+  {
+    "nombre": "Agencia de Publicidad Creativa",
+    "numero": "964056480"
+  },
+  {
+    "nombre": "Comercio de Dispositivos Electrónicos",
+    "numero": "964157192"
+  },
+  {
+    "nombre": "Estudio de Branding y Comunicación",
+    "numero": "964383108"
+  },
+  {
+    "nombre": "Servicios de Catering y Banquetería",
+    "numero": "964489920"
+  },
+  {
+    "nombre": "Centro de Desarrollo Tecnológico",
+    "numero": "964642158"
+  },
+  {
+    "nombre": "Agencia de Comunicación Digital",
+    "numero": "964804080"
+  },
+  {
+    "nombre": "Comercio de Equipos de Cómputo",
+    "numero": "964872900"
+  },
+  {
+    "nombre": "Servicios de Asesoría Legal",
+    "numero": "965002701"
+  },
+  {
+    "nombre": "Centro de Atención a la Diversidad",
+    "numero": "965112324"
+  },
+  {
+    "nombre": "Agencia de Innovación Tecnológica",
+    "numero": "965253606"
+  },
+  {
+    "nombre": "Comercio de Muebles Personalizados",
+    "numero": "965575049"
+  },
+  {
+    "nombre": "Servicios de Suministros Industriales",
+    "numero": "965602958"
+  },
+  {
+    "nombre": "Centro de Estrategia Empresarial",
+    "numero": "965771311"
+  },
+  {
+    "nombre": "Agencia de Fotografía Comercial",
+    "numero": "965852631"
+  },
+  {
+    "nombre": "Comercio de Productos de Belleza",
+    "numero": "966013278"
+  },
+  {
+    "nombre": "Servicios de Entrenamiento Personalizado",
+    "numero": "966057426"
+  },
+  {
+    "nombre": "Estudio de Creación de Videojuegos",
+    "numero": "966204538"
+  },
+  {
+    "nombre": "Agencia de Contenidos Multimedia",
+    "numero": "966258785"
+  },
+  {
+    "nombre": "Desarrollo de Sistemas de Información",
+    "numero": "966389745"
+  },
+  {
+    "nombre": "Centro de Consultoría en Estrategia",
+    "numero": "966721800"
+  },
+  {
+    "nombre": "Agencia de Edición y Producción",
+    "numero": "966940417"
+  },
+  {
+    "nombre": "Comercio de Productos Gourmet",
+    "numero": "967013088"
+  },
+  {
+    "nombre": "Servicios de Gestión de Proyectos",
+    "numero": "967317358"
+  },
+  {
+    "nombre": "Centro de Orientación Vocacional",
+    "numero": "967458249"
+  },
+  {
+    "nombre": "Agencia de Comunicación Estratégica",
+    "numero": "967771048"
+  },
+  {
+    "nombre": "Tienda de Ropa Vintage",
+    "numero": "967825007"
+  },
+  {
+    "nombre": "Servicios de Interpretación y Traducción",
+    "numero": "967856301"
+  },
+  {
+    "nombre": "Comercio de Accesorios para Tecnología",
+    "numero": "968217360"
+  },
+  {
+    "nombre": "Centro de Educación Alternativa",
+    "numero": "968268530"
+  },
+  {
+    "nombre": "Agencia de Diseño de Experiencias",
+    "numero": "968381276"
+  },
+  {
+    "nombre": "Desarrollo de Aplicaciones Móviles",
+    "numero": "968516077"
+  },
+  {
+    "nombre": "Comercio de Suministros de Oficina",
+    "numero": "968652211"
+  },
+  {
+    "nombre": "Estudio de Fotografía Creativa",
+    "numero": "968805028"
+  },
+  {
+    "nombre": "Agencia de Creatividad y Diseño",
+    "numero": "968893600"
+  },
+  {
+    "nombre": "Centro de Asesoría de Negocios",
+    "numero": "969008251"
+  },
+  {
+    "nombre": "Servicios de Planificación Estratégica",
+    "numero": "969093451"
+  },
+  {
+    "nombre": "Comercio de Productos para el Cuidado Personal",
+    "numero": "969189873"
+  },
+  {
+    "nombre": "Agencia de Viajes de Aventura",
+    "numero": "969231328"
+  },
+  {
+    "nombre": "Centro de Innovación Social",
+    "numero": "969399045"
+  },
+  {
+    "nombre": "Comercio de Insumos para la Construcción",
+    "numero": "969543929"
+  },
+  {
+    "nombre": "Servicios de Educación a Distancia",
+    "numero": "969730198"
+  },
+  {
+    "nombre": "Agencia de Producción Audiovisual",
+    "numero": "969883122"
+  },
+  {
+    "nombre": "Centro de Rehabilitación y Bienestar",
+    "numero": "970112706"
+  },
+  {
+    "nombre": "Comercio de Productos Biológicos",
+    "numero": "970265121"
+  },
+  {
+    "nombre": "Agencia de Asesoría Financiera",
+    "numero": "970563873"
+  },
+  {
+    "nombre": "Servicios de Gestión de Eventos",
+    "numero": "970776324"
+  },
+  {
+    "nombre": "Centro de Terapias y Bienestar",
+    "numero": "970956193"
+  },
+  {
+    "nombre": "Desarrollo de Proyectos Culturales",
+    "numero": "971136241"
+  },
+  {
+    "nombre": "Agencia de Innovación Empresarial",
+    "numero": "971354048"
+  },
+  {
+    "nombre": "Comercio de Equipos de Seguridad",
+    "numero": "971426077"
+  },
+  {
+    "nombre": "Estudio de Creación de Marca",
+    "numero": "971672084"
+  },
+  {
+    "nombre": "Servicios de Administración de Proyectos",
+    "numero": "971793910"
+  },
+  {
+    "nombre": "Centro de Consultoría Creativa",
+    "numero": "972031652"
+  },
+  {
+    "nombre": "Agencia de Diseño y Estrategia",
+    "numero": "972305318"
+  },
+  {
+    "nombre": "Comercio de Suministros Químicos",
+    "numero": "972498162"
+  },
+  {
+    "nombre": "Servicios de Capacitación Empresarial",
+    "numero": "972823026"
+  },
+  {
+    "nombre": "Centro de Bienestar y Desarrollo Personal",
+    "numero": "973012748"
+  },
+  {
+    "nombre": "Agencia de Producción Gráfica",
+    "numero": "973356726"
+  },
+  {
+    "nombre": "Comercio de Materiales para Manualidades",
+    "numero": "973543156"
+  },
+  {
+    "nombre": "Servicios de Coaching y Mentoría",
+    "numero": "973876110"
+  },
+  {
+    "nombre": "Centro de Educación y Capacitación",
+    "numero": "974013096"
+  },
+  {
+    "nombre": "Agencia de Investigación Social",
+    "numero": "974101793"
+  },
+  {
+    "nombre": "Comercio de Productos de Limpieza Ecológica",
+    "numero": "974323745"
+  },
+  {
+    "nombre": "Servicios de Producción de Eventos",
+    "numero": "974565928"
+  },
+  {
+    "nombre": "Centro de Orientación Familiar",
+    "numero": "974820037"
+  },
+  {
+    "nombre": "Agencia de Medios Digitales",
+    "numero": "975010857"
+  },
+  {
+    "nombre": "Desarrollo de Soluciones Creativas",
+    "numero": "975195476"
+  },
+  {
+    "nombre": "Comercio de Equipos de Tecnología Avanzada",
+    "numero": "975471072"
+  },
+  {
+    "nombre": "Servicios de Investigación de Mercados",
+    "numero": "975716630"
+  },
+  {
+    "nombre": "Centro de Desarrollo de Talento",
+    "numero": "975863511"
+  },
+  {
+    "nombre": "Agencia de Educación y Capacitación",
+    "numero": "976001589"
+  },
+  {
+    "nombre": "Comercio de Productos para el Hogar Inteligente",
+    "numero": "976202382"
+  },
+  {
+    "nombre": "Servicios de Comunicación Estratégica",
+    "numero": "976352584"
+  },
+  {
+    "nombre": "Centro de Formación Técnica",
+    "numero": "976534721"
+  },
+  {
+    "nombre": "Agencia de Creación de Contenido Digital",
+    "numero": "976832405"
+  },
+  {
+    "nombre": "Comercio de Recursos Humanos",
+    "numero": "977025476"
+  },
+  {
+    "nombre": "Servicios de Estrategia de Marca",
+    "numero": "977237568"
+  },
+  {
+    "nombre": "Centro de Innovación Educativa",
+    "numero": "977488016"
+  },
+  {
+    "nombre": "Agencia de Branding Personal",
+    "numero": "977675309"
+  },
+  {
+    "nombre": "Comercio de Artículos de Oficina",
+    "numero": "977850207"
+  },
+  {
+    "nombre": "Servicios de Producción de Multimedia",
+    "numero": "978089648"
+  },
+  {
+    "nombre": "Centro de Capacitación en Tecnología",
+    "numero": "978193248"
+  },
+  {
+    "nombre": "Agencia de Desarrollo Sostenible",
+    "numero": "978310945"
+  },
+  {
+    "nombre": "Comercio de Equipos de Audio y Video",
+    "numero": "978526100"
+  },
+  {
+    "nombre": "Servicios de Capacitación en Ventas",
+    "numero": "978662074"
+  },
+  {
+    "nombre": "Centro de Atención a la Salud Mental",
+    "numero": "978885636"
+  },
+  {
+    "nombre": "Agencia de Soluciones Innovadoras",
+    "numero": "979031142"
+  },
+  {
+    "nombre": "Comercio de Herramientas de Jardinería",
+    "numero": "979254804"
+  },
+  {
+    "nombre": "Servicios de Gestión del Cambio",
+    "numero": "979414820"
+  },
+  {
+    "nombre": "Centro de Estudio y Desarrollo de Habilidades",
+    "numero": "979689140"
+  },
+  {
+    "nombre": "Agencia de Marketing de Influencers",
+    "numero": "979895562"
+  },
+  {
+    "nombre": "Comercio de Materiales para Construcción",
+    "numero": "980034097"
+  },
+  {
+    "nombre": "Servicios de Traducción Técnica",
+    "numero": "980217361"
+  },
+  {
+    "nombre": "Centro de Investigación de Tecnología",
+    "numero": "980356743"
+  },
+  {
+    "nombre": "Agencia de Producción de Contenido",
+    "numero": "980485124"
+  },
+  {
+    "nombre": "Comercio de Equipos de Seguridad Industrial",
+    "numero": "980629074"
+  },
+  {
+    "nombre": "Servicios de Apoyo Educativo",
+    "numero": "980784622"
+  },
+  {
+    "nombre": "Centro de Atención Integral",
+    "numero": "981030224"
+  },
+  {
+    "nombre": "Agencia de Desarrollo Digital",
+    "numero": "981152769"
+  },
+  {
+    "nombre": "Comercio de Instrumentos Musicales",
+    "numero": "981364504"
+  },
+  {
+    "nombre": "Servicios de Gestión de Talento",
+    "numero": "981508274"
+  },
+  {
+    "nombre": "Centro de Aprendizaje y Desarrollo Personal",
+    "numero": "981635792"
+  },
+  {
+    "nombre": "Agencia de Marketing de Contenidos",
+    "numero": "981873420"
+  },
+  {
+    "nombre": "Comercio de Productos de Computación",
+    "numero": "982112054"
+  },
+  {
+    "nombre": "Servicios de Consultoría en Recursos Humanos",
+    "numero": "982265428"
+  },
+  {
+    "nombre": "Centro de Capacitación en Habilidades Digitales",
+    "numero": "982389457"
+  },
+  {
+    "nombre": "Agencia de Innovación en Marketing",
+    "numero": "982545219"
+  },
+  {
+    "nombre": "Comercio de Accesorios de Moda",
+    "numero": "982734564"
+  },
+  {
+    "nombre": "Servicios de Capacitación en Desarrollo Personal",
+    "numero": "982895127"
+  },
+  {
+    "nombre": "Centro de Investigación y Desarrollo de Productos",
+    "numero": "983052684"
+  },
+  {
+    "nombre": "Agencia de Diseño Gráfico",
+    "numero": "983177231"
+  },
+  {
+    "nombre": "Comercio de Juegos de Mesa",
+    "numero": "983396905"
+  },
+  {
+    "nombre": "Servicios de Publicidad y Promoción",
+    "numero": "983560673"
+  },
+  {
+    "nombre": "Centro de Consultoría y Capacitación",
+    "numero": "983703124"
+  },
+  {
+    "nombre": "Agencia de Comunicación Visual",
+    "numero": "983842295"
+  },
+  {
+    "nombre": "Comercio de Equipos de Televisión",
+    "numero": "984056810"
+  },
+  {
+    "nombre": "Servicios de Estudio de Mercado",
+    "numero": "984246673"
+  },
+  {
+    "nombre": "Centro de Capacitación en Comunicación",
+    "numero": "984356724"
+  },
+  {
+    "nombre": "Agencia de Promoción de Ventas",
+    "numero": "984486586"
+  },
+  {
+    "nombre": "Comercio de Productos de Jardinería",
+    "numero": "984649312"
+  },
+  {
+    "nombre": "Servicios de Capacitación en Marketing",
+    "numero": "984731624"
+  },
+  {
+    "nombre": "Centro de Desarrollo de Estrategias",
+    "numero": "984835612"
+  },
+  {
+    "nombre": "Agencia de Diseño de Moda",
+    "numero": "985028116"
+  },
+  {
+    "nombre": "Comercio de Accesorios de Tecnología",
+    "numero": "985243719"
+  },
+  {
+    "nombre": "Servicios de Gestión Financiera",
+    "numero": "985372865"
+  },
+  {
+    "nombre": "Centro de Desarrollo Social",
+    "numero": "985471058"
+  },
+  {
+    "nombre": "Agencia de Marketing de Redes Sociales",
+    "numero": "985598256"
+  },
+  {
+    "nombre": "Comercio de Productos para el Hogar",
+    "numero": "985758091"
+  },
+  {
+    "nombre": "Servicios de Educación y Capacitación",
+    "numero": "985921563"
+  },
+  {
+    "nombre": "Centro de Innovación Empresarial",
+    "numero": "986034275"
+  },
+  {
+    "nombre": "Agencia de Consultoría en Comunicación",
+    "numero": "986201974"
+  },
+  {
+    "nombre": "Comercio de Equipos de Cocina",
+    "numero": "986427078"
+  },
+  {
+    "nombre": "Servicios de Capacitación en Ventas",
+    "numero": "986585604"
+  },
+  {
+    "nombre": "Centro de Formación Profesional",
+    "numero": "986735129"
+  },
+  {
+    "nombre": "Agencia de Marketing de Producto",
+    "numero": "986854204"
+  },
+  {
+    "nombre": "Comercio de Accesorios para el Hogar",
+    "numero": "986992351"
+  },
+  {
+    "nombre": "Servicios de Desarrollo Organizacional",
+    "numero": "987123476"
+  },
+  {
+    "nombre": "Centro de Asesoría en Marketing",
+    "numero": "987267859"
+  },
+  {
+    "nombre": "Agencia de Marketing de Experiencia",
+    "numero": "987397814"
+  },
+  {
+    "nombre": "Comercio de Artículos de Limpieza",
+    "numero": "987548203"
+  },
+  {
+    "nombre": "Servicios de Capacitación en Estrategia",
+    "numero": "987702400"
+  },
+  {
+    "nombre": "Centro de Consultoría en Ventas",
+    "numero": "987850012"
+  },
+  {
+    "nombre": "Agencia de Gestión de Redes Sociales",
+    "numero": "988026753"
+  },
+  {
+    "nombre": "Comercio de Juguetes Educativos",
+    "numero": "988187295"
+  },
+  {
+    "nombre": "Servicios de Capacitación en Negocios",
+    "numero": "988366152"
+  },
+  {
+    "nombre": "Centro de Atención a la Diversidad",
+    "numero": "988477113"
+  },
+  {
+    "nombre": "Agencia de Branding Corporativo",
+    "numero": "988612018"
+  },
+  {
+    "nombre": "Comercio de Productos de Belleza Natural",
+    "numero": "988735642"
+  },
+  {
+    "nombre": "Servicios de Comunicación Corporativa",
+    "numero": "988881210"
+  },
+  {
+    "nombre": "Centro de Formación en Habilidades Digitales",
+    "numero": "988990531"
+  },
+  {
+    "nombre": "Agencia de Marketing Estratégico",
+    "numero": "989112038"
+  },
+  {
+    "nombre": "Comercio de Productos de Cuidado Personal",
+    "numero": "989290579"
+  },
+  {
+    "nombre": "Servicios de Evaluación y Desarrollo",
+    "numero": "989476207"
+  },
+  {
+    "nombre": "Centro de Investigación y Desarrollo Social",
+    "numero": "989673124"
+  },
+  {
+    "nombre": "Agencia de Comunicación de Marca",
+    "numero": "989850126"
+  },
+  {
+    "nombre": "Comercio de Equipos de Oficina",
+    "numero": "990011358"
+  },
+  {
+    "nombre": "Servicios de Consultoría Estratégica",
+    "numero": "990193034"
+  },
+  {
+    "nombre": "Centro de Consultoría en Desarrollo Personal",
+    "numero": "990358432"
+  },
+  {
+    "nombre": "Agencia de Publicidad Digital",
+    "numero": "990482529"
+  },
+  {
+    "nombre": "Comercio de Artículos de Papelería",
+    "numero": "990604297"
+  },
+  {
+    "nombre": "Servicios de Gestión de Proyectos",
+    "numero": "990794671"
+  },
+  {
+    "nombre": "Centro de Formación en Comunicación",
+    "numero": "990894456"
+  },
+  {
+    "nombre": "Agencia de Creación de Marca",
+    "numero": "991045578"
+  },
+  {
+    "nombre": "Comercio de Tecnología de la Información",
+    "numero": "991219685"
+  },
+  {
+    "nombre": "Servicios de Capacitación en Innovación",
+    "numero": "991342793"
+  },
+  {
+    "nombre": "Centro de Innovación Social",
+    "numero": "991480624"
+  },
+  {
+    "nombre": "Agencia de Desarrollo de Marcas",
+    "numero": "991600057"
+  },
+  {
+    "nombre": "Comercio de Productos Alimenticios",
+    "numero": "991778419"
+  },
+  {
+    "nombre": "Servicios de Comunicación y Relaciones Públicas",
+    "numero": "991845034"
+  },
+  {
+    "nombre": "Centro de Capacitación en Ventas y Negocios",
+    "numero": "991900864"
+  },
+  {
+    "nombre": "Agencia de Consultoría en Innovación",
+    "numero": "992078153"
+  },
+  {
+    "nombre": "Comercio de Productos de Limpieza",
+    "numero": "992239078"
+  },
+  {
+    "nombre": "Servicios de Capacitación en Comunicación",
+    "numero": "992423804"
+  },
+  {
+    "nombre": "Centro de Investigación en Desarrollo de Productos",
+    "numero": "992600578"
+  },
+  {
+    "nombre": "Agencia de Marketing de Contenidos Digitales",
+    "numero": "992763906"
+  },
+  {
+    "nombre": "Comercio de Servicios de Asesoría",
+    "numero": "992882419"
+  },
+  {
+    "nombre": "Servicios de Marketing Digital",
+    "numero": "993029074"
+  },
+  {
+    "nombre": "Centro de Capacitación en Diseño",
+    "numero": "993172068"
+  },
+  {
+    "nombre": "Agencia de Consultoría en Branding",
+    "numero": "993330598"
+  },
+  {
+    "nombre": "Comercio de Productos de Jardinería y Agricultura",
+    "numero": "993514224"
+  },
+  {
+    "nombre": "Servicios de Capacitación en Gestión de Proyectos",
+    "numero": "993645457"
+  },
+  {
+    "nombre": "Centro de Desarrollo de Marca",
+    "numero": "993892743"
+  },
+  {
+    "nombre": "Agencia de Marketing para PYMES",
+    "numero": "994072135"
+  },
+  {
+    "nombre": "Comercio de Productos de Cuidado Infantil",
+    "numero": "994235197"
+  },
+  {
+    "nombre": "Servicios de Capacitación en Estrategias de Ventas",
+    "numero": "994347029"
+  },
+  {
+    "nombre": "Centro de Innovación y Desarrollo Empresarial",
+    "numero": "994468056"
+  },
+  {
+    "nombre": "Agencia de Comunicación Digital",
+    "numero": "994584203"
+  },
+  {
+    "nombre": "Comercio de Productos para Mascotas",
+    "numero": "994675301"
+  },
+  {
+    "nombre": "Servicios de Evaluación de Proyectos",
+    "numero": "994787480"
+  },
+  {
+    "nombre": "Centro de Formación en Estrategias de Ventas",
+    "numero": "994867059"
+  },
+  {
+    "nombre": "Agencia de Publicidad en Redes Sociales",
+    "numero": "995036915"
+  },
+  {
+    "nombre": "Comercio de Artículos de Madera",
+    "numero": "995181478"
+  },
+  {
+    "nombre": "Servicios de Capacitación en Desarrollo Organizacional",
+    "numero": "995293059"
+  },
+  {
+    "nombre": "Centro de Capacitación en Recursos Humanos",
+    "numero": "995409423"
+  },
+  {
+    "nombre": "Agencia de Innovación en Comunicación",
+    "numero": "995587340"
+  },
+  {
+    "nombre": "Comercio de Productos Ecológicos",
+    "numero": "995712906"
+  },
+  {
+    "nombre": "Servicios de Consultoría en Marketing Digital",
+    "numero": "995889127"
+  },
+  {
+    "nombre": "Centro de Investigación en Marketing",
+    "numero": "996008284"
+  },
+  {
+    "nombre": "Agencia de Estrategias de Comunicación",
+    "numero": "996183745"
+  },
+  {
+    "nombre": "Comercio de Productos de Cuidado de la Salud",
+    "numero": "996359806"
+  },
+  {
+    "nombre": "Servicios de Consultoría en Desarrollo de Estrategias",
+    "numero": "996442174"
+  },
+  {
+    "nombre": "Centro de Desarrollo de Estrategias de Marketing",
+    "numero": "996579048"
+  },
+  {
+    "nombre": "Agencia de Branding Digital",
+    "numero": "996748380"
+  },
+  {
+    "nombre": "Comercio de Servicios de Consultoría",
+    "numero": "996840427"
+  },
+  {
+    "nombre": "Servicios de Capacitación en Innovación Empresarial",
+    "numero": "996943517"
+  },
+  {
+    "nombre": "Centro de Capacitación en Habilidades Empresariales",
+    "numero": "997051295"
+  },
+  {
+    "nombre": "Agencia de Desarrollo de Estrategias",
+    "numero": "997166904"
+  },
+  {
+    "nombre": "Comercio de Servicios de Capacitación",
+    "numero": "997279683"
+  },
+  {
+    "nombre": "Servicios de Marketing de Experiencia",
+    "numero": "997421848"
+  },
+  {
+    "nombre": "Centro de Innovación en Ventas",
+    "numero": "997586770"
+  },
+  {
+    "nombre": "Agencia de Innovación Empresarial",
+    "numero": "997693281"
+  },
+  {
+    "nombre": "Comercio de Servicios de Capacitación en Habilidades",
+    "numero": "997810234"
   }
 ]

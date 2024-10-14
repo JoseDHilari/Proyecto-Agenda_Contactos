@@ -12,11 +12,48 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
+import java.io.BufferedReader
 import java.io.File
+import java.io.InputStreamReader
 
 class ContactosAdapter(private val contactos: MutableList<Contacto>, private val context: Context) : RecyclerView.Adapter<ContactosAdapter.ContactoViewHolder>() {
 
     var contactosAlternos: MutableList<Contacto> = contactos.toMutableList()
+
+    init {
+        loadContacts()
+    }
+
+    private fun loadContacts() {
+        val file = File(context.filesDir, "contacts.json")
+        if (!file.exists() || file.length() == 0L) {
+            // Si el archivo no existe o está vacío, cargar desde assets
+            contactosAlternos = loadContactsFromAssets(context)
+            saveContactsToFile()
+        } else {
+            // Si existe, cargar desde el archivo local
+            contactosAlternos = loadContactsFromFile()
+        }
+    }
+
+    private fun loadContactsFromAssets(context: Context): MutableList<Contacto> {
+        val inputStream = context.assets.open("contacts.json")
+        val bufferedReader = BufferedReader(InputStreamReader(inputStream))
+        val json = bufferedReader.use { it.readText() }
+
+        val gson = Gson()
+        val listType = object : TypeToken<MutableList<Contacto>>() {}.type
+        return gson.fromJson(json, listType)
+        notifyDataSetChanged()
+    }
+
+    private fun loadContactsFromFile(): MutableList<Contacto> {
+        val file = File(context.filesDir, "contacts.json")
+        val json = file.readText()
+        val gson = Gson()
+        val listType = object : TypeToken<MutableList<Contacto>>() {}.type
+        return gson.fromJson(json, listType)
+    }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ContactoViewHolder {
         val view = LayoutInflater.from(context).inflate(R.layout.item_contacto, parent, false)
@@ -35,11 +72,10 @@ class ContactosAdapter(private val contactos: MutableList<Contacto>, private val
 
         // Listener para eliminar contacto
         holder.deleteImageView.setOnClickListener {
-            val originalPosition = contactos.indexOf(contacto)
-            contactos.removeAt(originalPosition) // Remover de la lista original
-            contactos.removeAt(position) // Remover de la lista alterna
-            notifyItemRemoved(position)
-            notifyItemRangeChanged(position, contactosAlternos.size)
+            val originalPosition = contactosAlternos.indexOf(contacto)
+            contactosAlternos.removeAt(originalPosition) // Remover de la lista alterna
+            notifyItemRemoved(originalPosition)
+            notifyItemRangeChanged(originalPosition, contactosAlternos.size)
             saveContactsToFile()
         }
     }
@@ -53,7 +89,6 @@ class ContactosAdapter(private val contactos: MutableList<Contacto>, private val
         val deleteImageView: ImageView = itemView.findViewById(R.id.iv_borrar)
     }
 
-    // Método para mostrar el diálogo de edición
     @SuppressLint("MissingInflatedId")
     private fun showEditContactDialog(contacto: Contacto, position: Int) {
         // Inflar el diseño del diálogo
@@ -86,14 +121,12 @@ class ContactosAdapter(private val contactos: MutableList<Contacto>, private val
         dialog.show()
     }
 
-    // Guardar la lista de contactos actualizada en el archivo JSON
     private fun saveContactsToFile() {
         val file = File(context.filesDir, "contacts.json")
-        val json = Gson().toJson(contactos)
+        val json = Gson().toJson(contactosAlternos)
         file.writeText(json)
     }
 
-    // Método para actualizar la lista alterna
     fun updateContacts(newContacts: List<Contacto>) {
         contactosAlternos.clear()
         contactosAlternos.addAll(newContacts) // Agregar nuevos contactos a la lista alterna

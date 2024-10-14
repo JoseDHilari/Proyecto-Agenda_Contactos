@@ -54,11 +54,11 @@ class MainActivity : AppCompatActivity() {
 
                 when (seleccion) {
                     "Ordenar por Nombre" -> {
-                        mergeSortWithMetrics(contactList) { it.nombre }
+                        quickSortWithMetrics(contactList) { it.nombre }
                         contactAdapter.updateContacts(contactList)
                     }
                     "Ordenar por Número" -> {
-                        mergeSortWithMetrics(contactList) { it.numero }
+                        quickSortWithMetrics(contactList) { it.numero }
                         contactAdapter.updateContacts(contactList)
                     }
                 }
@@ -66,11 +66,9 @@ class MainActivity : AppCompatActivity() {
             }
 
             override fun onNothingSelected(parent: AdapterView<*>) {
-                // No hacer nada cuando no se selecciona nada
             }
         }
 
-        // Botón para agregar un nuevo contacto
         val addButton: ImageButton = findViewById(R.id.fabAgregar)
         addButton.setOnClickListener {
             showAddContactDialog()
@@ -80,25 +78,24 @@ class MainActivity : AppCompatActivity() {
         searchView.setOnQueryTextListener(object : SearchView.OnQueryTextListener {
             override fun onQueryTextSubmit(query: String?): Boolean {
                 query?.let {
-                    // Realizar búsqueda lineal
                     val results = linearSearch(it)
                     contactAdapter.updateContacts(results)
+
                 }
                 return false
             }
 
             override fun onQueryTextChange(newText: String?): Boolean {
                 newText?.let {
-                    // Realizar búsqueda lineal
                     val results = linearSearch(it)
                     contactAdapter.updateContacts(results)
+
                 }
                 return false
             }
         })
     }
 
-    // Mostrar diálogo para agregar contacto
     @SuppressLint("MissingInflatedId")
     private fun showAddContactDialog() {
         val builder = AlertDialog.Builder(this)
@@ -116,7 +113,7 @@ class MainActivity : AppCompatActivity() {
                 val newContact = Contacto(name, number)
                 contactList.add(newContact)
                 saveContactsToJson()
-                mergeSortWithMetrics(contactList) { it.nombre } // Ordenar por nombre después de agregar
+                quickSortWithMetrics(contactList) { it.nombre } // Ordenar por nombre después de agregar
                 contactAdapter.updateContacts(contactList)
             } else {
                 Toast.makeText(this, "Datos inválidos", Toast.LENGTH_SHORT).show()
@@ -127,12 +124,10 @@ class MainActivity : AppCompatActivity() {
         builder.show()
     }
 
-    // Función para validar el contacto
     private fun validateContact(name: String, number: String): Boolean {
         return name.isNotEmpty() && number.isNotEmpty() && number.matches(Regex("\\d+"))
     }
 
-    // Cargar contactos desde archivo JSON
     private fun loadContactsFromJson(): MutableList<Contacto> {
         val gson = Gson()
         val file = File(filesDir, "contacts.json")
@@ -151,7 +146,6 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    // Guardar contactos en archivo JSON
     private fun saveContactsToJson() {
         val gson = Gson()
         val file = File(filesDir, "contacts.json")
@@ -167,51 +161,40 @@ class MainActivity : AppCompatActivity() {
 
     fun <T : Comparable<T>> mergeSortWithMetrics(arr: MutableList<Contacto>, selector: (Contacto) -> T) {
         val startTime = System.nanoTime()
-        val runtime = Runtime.getRuntime()
-        val usedMemoryBefore = runtime.totalMemory() - runtime.freeMemory()
 
-        val resu = mergeSort(arr, selector) // Llama al algoritmo de Merge Sort
+        val resu = mergeSort(arr, selector)
 
-        val usedMemoryAfter = runtime.totalMemory() - runtime.freeMemory()
         val endTime = System.nanoTime()
         val duration = (endTime - startTime)/ 1_000_000
-        val memoryUsed = (usedMemoryAfter - usedMemoryBefore) / 1024 // Convertir a KB
 
-        Log.d("Estadisticas", "Merge Sort took $duration ms and used $memoryUsed KB")
+        Log.d("Estadisticas", "Merge Sort took $duration ms")
         return resu
     }
 
     fun <T : Comparable<T>> quickSortWithMetrics(arr: MutableList<Contacto>, selector: (Contacto) -> T) {
         val startTime = System.nanoTime()
-        val runtime = Runtime.getRuntime()
-        val usedMemoryBefore = runtime.totalMemory() - runtime.freeMemory()
 
-        quickSort(arr, selector) // Llama al algoritmo de Quick Sort
+        val resu = quickSort(arr, selector) // Llama al algoritmo de Quick Sort
 
-        val usedMemoryAfter = runtime.totalMemory() - runtime.freeMemory()
         val endTime = System.nanoTime()
         val duration = endTime - startTime
-        val memoryUsed = (usedMemoryAfter - usedMemoryBefore) / 1024 // Convertir a KB
 
-        Log.d("Estadisticas", "Quick Sort took ${duration / 1_000_000} ms and used $memoryUsed KB")
+        Log.d("Estadisticas", "Quick Sort took ${duration / 1_000_000} ms")
+        return resu
     }
 
     fun <T : Comparable<T>> insertionSortWithMetrics(arr: MutableList<Contacto>, selector: (Contacto) -> T) {
         val startTime = System.nanoTime()
-        val runtime = Runtime.getRuntime()
-        val usedMemoryBefore = runtime.totalMemory() - runtime.freeMemory()
 
-        insertionSort(arr, selector) // Llama al algoritmo de Insertion Sort
+        val resu = insertionSort(arr, selector) // Llama al algoritmo de Insertion Sort
 
-        val usedMemoryAfter = runtime.totalMemory() - runtime.freeMemory()
         val endTime = System.nanoTime()
         val duration = endTime - startTime
-        val memoryUsed = (usedMemoryAfter - usedMemoryBefore) / 1024 // Convertir a KB
 
-        Log.d("Estadisticas", "Insertion Sort took ${duration / 1_000_000} ms and used $memoryUsed KB")
+        Log.d("Estadisticas", "Insertion Sort took ${duration / 1_000_000} ms")
+        return resu
     }
 
-    // Merge Sort que ordena según la clave especificada
     private fun <T : Comparable<T>> mergeSort(arr: MutableList<Contacto>, selector: (Contacto) -> T) {
         val startTime = System.nanoTime()
         if (arr.size <= 1) return
@@ -291,10 +274,20 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun linearSearch(query: String): List<Contacto> {
-        return contactList.filter { it.nombre.contains(query, ignoreCase = true) }
+        val startTime = System.nanoTime() // Inicia el temporizador
+
+        val result = contactList.filter { it.nombre.contains(query, ignoreCase = true) }
+
+        val endTime = System.nanoTime() // Finaliza el temporizador
+        val duration = (endTime - startTime) / 1_000_000 // Convierte a milisegundos
+
+        Log.d("Estadisticas", "Linear Search took $duration ms") // Muestra el tiempo en Logcat
+        return result
     }
 
     private fun binarySearch(query: String): Contacto? {
+        val startTime = System.nanoTime() // Inicia el temporizador
+
         var left = 0
         var right = contactList.size - 1
 
@@ -303,12 +296,22 @@ class MainActivity : AppCompatActivity() {
             val midContact = contactList[mid]
 
             when {
-                midContact.nombre.equals(query, ignoreCase = true) -> return midContact
+                midContact.nombre.equals(query, ignoreCase = true) -> {
+                    val endTime = System.nanoTime() // Finaliza el temporizador
+                    val duration = (endTime - startTime) / 1_000_000 // Convierte a milisegundos
+                    Log.d("Estadisticas", "Binary Search took $duration ms") // Muestra el tiempo en Logcat
+                    return midContact
+                }
                 midContact.nombre < query -> left = mid + 1
                 else -> right = mid - 1
             }
         }
+
+        val endTime = System.nanoTime() // Finaliza el temporizador
+        val duration = (endTime - startTime) / 1_000_000 // Convierte a milisegundos
+        Log.d("Estadisticas", "Binary Search took $duration ms") // Muestra el tiempo en Logcat
         return null
     }
+
 
 }
