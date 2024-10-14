@@ -1,6 +1,6 @@
 package hilari.abarca.agendacontactos
 
 data class Contacto(
-    val nombre: String,
-    val numero: String
+    var nombre: String,
+    var numero: String
 )

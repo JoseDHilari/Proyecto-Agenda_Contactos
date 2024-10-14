@@ -9,11 +9,17 @@
         android:id="@+id/editTextName"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Nombre" />
+        android:hint="Nombre"
+        android:inputType="textPersonName"
+        android:maxLines="1"
+        android:singleLine="true"/>
 
     <EditText
         android:id="@+id/editTextNumber"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Número" />
+        android:hint="Número"
+        android:inputType="number"
+        android:maxLines="1"
+        android:singleLine="true"/>
 </LinearLayout>

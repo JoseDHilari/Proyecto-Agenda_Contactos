@@ -4,9 +4,4 @@
         <item>Ordenar por Nombre</item>
         <item>Ordenar por Número</item>
     </string-array>
-    <string-array name="sort_options">
-        <item>Merge Sort</item>
-        <item>Quick Sort</item>
-        <item>Insertion Sort</item>
-    </string-array>
 </resources>
